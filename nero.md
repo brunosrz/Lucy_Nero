@@ -22,7 +22,8 @@ A tabela resume as informações de referência do personagem na continuidade at
 | Nome                              | **Nero**                                                                    |
 | Espécie verdadeira                | **Neko Ryuu** — Gato Dragão                                                 |
 | Identidade individual             | **Dragão das Sombras**                                                      |
-| Idade em _Entre Espadas e Garras_ | **21 anos**                                                                 |
+| Idade em _Little Garden_          | **14 a 18 anos**                                                            |
+| Idade em _Entre Espadas e Garras_ | **Depois dos 21 anos**                                                      |
 | Idade ao conhecer Lucy            | **12 anos** (Lucy tinha 7)                                                  |
 | Estágio biológico                 | **Filhote** para sua espécie                                                |
 | Forma original atual              | **Gato Bengal melanístico**                                                 |
@@ -356,8 +357,9 @@ descobre as transformações, estrutura da campanha e revelações ao jogador.
 
 ### 10.2. _Lucy & Nero — Little Garden_ — companheiro e instrutor
 
-**Primeiro lançamento da franquia.** Nero acompanha Lucy em pequenas aventuras ao redor da vila,
-durante sua formação na guilda.
+**Primeiro lançamento da franquia.** Nero acompanha Lucy dos 9 aos 13 anos dela, portanto dos 14 aos
+18 anos dele, durante sua formação na guilda. A primeira metade cobre rapidamente os anos 9–11; a
+segunda concentra os anos 12–13, o exame e o treinamento mágico.
 
 - Atua como parceiro de exploração.
 - Suas diferentes formas podem oferecer oportunidades distintas de deslocamento e observação,
@@ -372,8 +374,8 @@ tornam utilizáveis no gameplay e que atividades serão dedicadas a ele.
 
 ### 10.3. _Lucy & Nero — Entre Espadas e Garras_ — Dragão das Sombras
 
-Nero tem **21 anos** e Lucy **16**. Os dois formam uma dupla experiente, enfrentando uma ameaça
-capaz de colocar o mundo inteiro em risco.
+Nero tem mais de **21 anos** e Lucy mais de **16**. Os dois formam uma dupla experiente, enfrentando
+uma ameaça capaz de colocar o mundo inteiro em risco depois do encerramento de _Little Garden_.
 
 Nero continua sendo biologicamente **um filhote Neko Ryuu** e ainda não possui sua forma dracônica
 natural.

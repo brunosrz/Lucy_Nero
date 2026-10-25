@@ -21,7 +21,8 @@ A tabela resume as informações de referência do personagem na continuidade at
 | ----------------------------------- | ------------------------------------------------------------------------------- |
 | Nome                                | **Lucy**                                                                        |
 | Espécie                             | Humana                                                                          |
-| Idade em _Entre Espadas e Garras_   | **16 anos**                                                                     |
+| Idade em _Little Garden_            | **9 a 13 anos**                                                                 |
+| Idade em _Entre Espadas e Garras_   | **Depois dos 16 anos**                                                          |
 | Idade ao conhecer Nero              | **7 anos** (Nero tinha 12)                                                      |
 | Idade aproximada no exame da guilda | **12 anos**                                                                     |
 | Altura de referência                | **Aproximadamente 1,65 m** (ficha visual mais recente; confirmar se definitiva) |
@@ -271,8 +272,9 @@ Lucy não é a protagonista desse jogo. A narrativa solo acompanha Nero até o e
 
 ### 8.2. _Lucy & Nero — Little Garden_ — a aprendiz
 
-**Primeiro jogo a ser lançado.** Acompanha a infância de Lucy e seu desenvolvimento ao lado de Nero,
-nas proximidades de sua vila.
+**Primeiro jogo a ser lançado.** Começa quando Lucy tem 9 anos e termina aos 13, antes de ela
+completar 14 anos. Os anos 9, 10 e 11 ocupam aproximadamente a primeira metade, com ritmo mais
+rápido; os anos 12 e 13 ocupam a segunda metade, com mais espaço para exame, magia e treinamento.
 
 **Antes do exame:**
 
@@ -296,13 +298,13 @@ nas proximidades de sua vila.
 - Aprende sombras com Nero.
 - Desenvolve sua magia e pode aprofundar sua forja rúnica.
 
-**[Em desenvolvimento]** Idade no início da campanha, duração, instrutores, estrutura do exame,
-reações da guilda e desfecho.
+**[Cânone]** O início ocorre aos 9 anos e o encerramento aos 13. **[Em desenvolvimento]** Duração de
+cada capítulo, instrutores, estrutura do exame, reações da guilda e desfecho detalhado.
 
 ### 8.3. _Lucy & Nero — Entre Espadas e Garras_ — a grande aventura
 
-Lucy tem **16 anos** e Nero **21**. Os dois enfrentam uma ameaça mundial inédita com a missão de
-**salvar o mundo**.
+Lucy tem **mais de 16 anos** e Nero mantém cinco anos de diferença. Os dois enfrentam uma ameaça
+mundial inédita com a missão de **salvar o mundo**.
 
 Lucy já desenvolveu habilidades de forja, combate e magia, mas é **nesse jogo** que descobrirá sua
 verdadeira habilidade inata, **Forjadora de Mundos**.
@@ -336,7 +338,8 @@ Lucy.
 4. Não confundir forja artesanal/rúnica com a habilidade inata.
 5. Não importar a antiga história de espíritos, profecias e origem recente da magia/monstros.
 6. Manter a diferença de **cinco anos** entre Lucy e Nero.
-7. Mostrar crescimento visual e técnico entre a infância e os 16 anos.
+7. Mostrar crescimento visual e técnico entre os 9 e os 13 anos de _Little Garden_ e a fase
+   posterior de _Entre Espadas e Garras_.
 8. Preservar o estilo 2D anime shounen e a paleta preto/vermelho/dourado.
 
 ## 11. Pendências de desenvolvimento
@@ -348,7 +351,7 @@ concluídas.
 - [ ] Contexto do sacrifício de Matthew.
 - [ ] Origem de sua quantidade extraordinária de mana.
 - [ ] Limites da regeneração.
-- [ ] Idade e visual no começo de _Little Garden_.
+- [ ] Distribuição exata dos capítulos entre os anos 9–11 e 12–13 de _Little Garden_.
 - [ ] Instrutores, provas e consequências do exame.
 - [ ] Funcionamento completo do compartilhamento mágico com Nero.
 - [ ] Regras definitivas da Forjadora de Mundos.

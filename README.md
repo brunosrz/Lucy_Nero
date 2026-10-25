@@ -384,18 +384,19 @@ história.
 
 A ficha abaixo resume as informações de referência de Lucy.
 
-| Característica          | Informação                                |
-| ----------------------- | ----------------------------------------- |
-| Nome                    | Lucy                                      |
-| Idade no jogo principal | 16 anos                                   |
-| Raça                    | Humana                                    |
-| Altura de referência    | Aproximadamente 1,65 m                    |
-| Olhos                   | Verde-esmeralda                           |
-| Cabelos                 | Longos e escuros                          |
-| Especialidades          | Forja, combate e magia                    |
-| Afinidades              | Fogo, água, eletricidade, vento e sombras |
-| Habilidade inata        | Forjadora de Mundos                       |
-| Companheiro             | Nero                                      |
+| Característica           | Informação                                |
+| ------------------------ | ----------------------------------------- |
+| Nome                     | Lucy                                      |
+| Idade em _Little Garden_ | 9 a 13 anos                               |
+| Idade no jogo principal  | Depois dos 16 anos                        |
+| Raça                     | Humana                                    |
+| Altura de referência     | Aproximadamente 1,65 m                    |
+| Olhos                    | Verde-esmeralda                           |
+| Cabelos                  | Longos e escuros                          |
+| Especialidades           | Forja, combate e magia                    |
+| Afinidades               | Fogo, água, eletricidade, vento e sombras |
+| Habilidade inata         | Forjadora de Mundos                       |
+| Companheiro              | Nero                                      |
 
 ### 5.2. Aparência
 
@@ -543,17 +544,18 @@ Esta seção apresenta Nero, suas formas conhecidas e os mistérios de sua orige
 
 A ficha abaixo resume as informações de referência de Nero.
 
-| Característica          | Informação              |
-| ----------------------- | ----------------------- |
-| Nome                    | Nero                    |
-| Idade no jogo principal | 21 anos                 |
-| Espécie                 | Neko Ryuu               |
-| Estágio de vida         | Filhote                 |
-| Forma original          | Gato Bengal melanístico |
-| Olhos                   | Verde-esmeralda         |
-| Formas alternativas     | Corvo e cavalo          |
-| Habilidade inata        | Dragão das Sombras      |
-| Companheira             | Lucy                    |
+| Característica           | Informação              |
+| ------------------------ | ----------------------- |
+| Nome                     | Nero                    |
+| Idade em _Little Garden_ | 14 a 18 anos            |
+| Idade no jogo principal  | Depois dos 21 anos      |
+| Espécie                  | Neko Ryuu               |
+| Estágio de vida          | Filhote                 |
+| Forma original           | Gato Bengal melanístico |
+| Olhos                    | Verde-esmeralda         |
+| Formas alternativas      | Corvo e cavalo          |
+| Habilidade inata         | Dragão das Sombras      |
+| Companheira              | Lucy                    |
 
 ### 6.2. Aparência
 
@@ -971,7 +973,9 @@ Os projetos abaixo exploram diferentes períodos da história e propostas de ave
 
 ### 🌸 9.1. Lucy & Nero — Little Garden
 
-Little Garden acompanha o aprendizado de Lucy e suas aventuras compartilhadas com Nero.
+Little Garden começa quando Lucy tem 9 anos e termina aos 13, antes de ela completar 14 anos. Os
+anos 9, 10 e 11 ocupam aproximadamente a primeira metade da campanha; os anos 12 e 13 ocupam a
+segunda metade, com mais espaço para o exame, a magia e o treinamento.
 
 #### Identidade
 
@@ -1289,15 +1293,17 @@ A cronologia organiza as idades dos protagonistas, os acontecimentos e a ordem p
 
 A tabela relaciona os principais acontecimentos às idades de Lucy e Nero.
 
-| Momento                     | Lucy               | Nero               | Acontecimento                                |
-| --------------------------- | ------------------ | ------------------ | -------------------------------------------- |
-| Antes do nascimento de Lucy | —                  | Em desenvolvimento | Nero nasce e começa sua própria história     |
-| Nascimento de Lucy          | 0                  | 5                  | Início da vida de Lucy                       |
-| Antes do encontro           | Até 7              | Até 12             | Aventuras solo de Nero                       |
-| Primeiro encontro           | 7                  | 12                 | Lucy e Nero se conhecem                      |
-| Infância compartilhada      | 7–16               | 12–21              | Desenvolvimento da amizade e das habilidades |
-| Exame da guilda             | Aproximadamente 12 | Aproximadamente 17 | Revelação das afinidades de Lucy             |
-| Jogo principal              | 16                 | 21                 | Acontecimentos de Entre Espadas e Garras     |
+| Momento                         | Lucy          | Nero               | Acontecimento                                |
+| ------------------------------- | ------------- | ------------------ | -------------------------------------------- |
+| Antes do nascimento de Lucy     | —             | Em desenvolvimento | Nero nasce e começa sua própria história     |
+| Nascimento de Lucy              | 0             | 5                  | Início da vida de Lucy                       |
+| Antes do encontro               | Até 7         | Até 12             | Aventuras solo de Nero                       |
+| Primeiro encontro               | 7             | 12                 | Lucy e Nero se conhecem                      |
+| Infância compartilhada          | 7–16          | 12–21              | Desenvolvimento da amizade e das habilidades |
+| Início de _Little Garden_       | 9             | 14                 | Início da campanha                           |
+| Exame da guilda                 | 12            | 17                 | Revelação das afinidades de Lucy             |
+| Encerramento de _Little Garden_ | 13            | 18                 | Antes de Lucy completar 14 anos              |
+| _Entre Espadas e Garras_        | Depois dos 16 | Depois dos 21      | Aventura posterior                           |
 
 #### Observação
 
@@ -1598,7 +1604,7 @@ As decisões pendentes sobre a origem e as capacidades de Nero estão listadas a
 
 Os aspectos abaixo da campanha e dos sistemas de Little Garden ainda precisam ser definidos.
 
-- [ ] Idade exata de Lucy no início do jogo.
+- [ ] Distribuição exata dos capítulos entre os anos 9–11 e 12–13.
 - [ ] Duração da campanha.
 - [ ] Personagens da vila.
 - [ ] Instrutores elementais.

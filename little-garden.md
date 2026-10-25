@@ -125,16 +125,23 @@ prelúdio cronológico.
 
 Os marcos abaixo preservam a diferença de cinco anos entre Lucy e Nero.
 
-| Evento                             |        Lucy |        Nero | Estado                                         |
-| ---------------------------------- | ----------: | ----------: | ---------------------------------------------- |
-| Nascimento de Lucy                 |           0 |           5 | [CÂNONE] Diferença etária de cinco anos        |
-| Primeiro encontro                  |           7 |          12 | [CÂNONE] Encerramento de _As Crônicas de Nero_ |
-| Exame de afinidade                 | Cerca de 12 | Cerca de 17 | [CÂNONE] Acontecimento de _Little Garden_      |
-| Início de _Entre Espadas e Garras_ |          16 |          21 | [CÂNONE]                                       |
+| Evento                             |          Lucy |          Nero | Estado                                         |
+| ---------------------------------- | ------------: | ------------: | ---------------------------------------------- |
+| Nascimento de Lucy                 |             0 |             5 | [CÂNONE] Diferença etária de cinco anos        |
+| Primeiro encontro                  |             7 |            12 | [CÂNONE] Encerramento de _As Crônicas de Nero_ |
+| Início de _Little Garden_          |             9 |            14 | [CÂNONE] Início da campanha                    |
+| Exame de afinidade                 |            12 |            17 | [CÂNONE] Acontecimento de _Little Garden_      |
+| Encerramento de _Little Garden_    |            13 |            18 | [CÂNONE] Antes de Lucy completar 14 anos       |
+| Início de _Entre Espadas e Garras_ | Depois dos 16 | Depois dos 21 | [CÂNONE] Aventura posterior                    |
 
-**[A DEFINIR]** Idade de Lucy no início de _Little Garden_, passagem do tempo, idade no encerramento
-e distribuição exata dos eventos. Não presumir que a campanha cobre obrigatoriamente todos os nove
-anos entre o encontro e o jogo principal.
+**[CÂNONE]** _Little Garden_ começa quando Lucy tem 9 anos e termina aos 13, antes de ela completar
+14 anos. Os anos 9, 10 e 11 ocupam aproximadamente a primeira metade da campanha, com passagem mais
+rápida do tempo. Os anos 12 e 13 ocupam a segunda metade, pois concentram o exame, a descoberta
+pública das afinidades, o treinamento mágico e mais elementos narrativos.
+
+O encontro acontece quando Lucy tem 7 anos; _Little Garden_ começa dois anos depois. _Entre Espadas
+e Garras_ acontece depois dos 16 anos de Lucy, com um intervalo posterior ao encerramento de _Little
+Garden_.
 
 ---
 
@@ -149,10 +156,10 @@ vila ao lado de Nero. Ela recolhe materiais, aprende técnicas de fabricação, 
 treinamentos e ajuda a manter a guilda funcionando. Conforme progride, começa a aprender com Nero
 uma forma de magia que ninguém reconhece como elemento: as sombras.
 
-Em torno dos 12 anos, chega a hora do exame da guilda. O resultado surpreende a todos: Lucy
-demonstra afinidade com **todos os elementos conhecidos**, além da misteriosa magia das sombras. A
-descoberta transforma sua formação, abrindo caminho para instrutores elementais e novas aplicações
-de magia na forja e nas aventuras.
+Em torno dos 12 anos, já na segunda metade da campanha, chega a hora do exame da guilda. O resultado
+surpreende a todos: Lucy demonstra afinidade com **todos os elementos conhecidos**, além da
+misteriosa magia das sombras. A descoberta transforma sua formação, abrindo caminho para instrutores
+elementais e novas aplicações de magia na forja e nas aventuras.
 
 **[SEGREDO]** Apesar de tudo, Lucy ainda não sabe que é a **Forjadora de Mundos**, e Nero não sabe
 que é um **Neko Ryuu**.
@@ -325,8 +332,9 @@ exame ocorre aproximadamente do meio do jogo em diante.
 
 #### Etapa A — Formação artesanal e vida na guilda
 
-**Foco confirmado:** coleta, minigames de forja, tarefas administrativas, pequenas aventuras,
-treinamentos e aprendizado inicial das sombras.
+**Foco confirmado:** anos 9, 10 e 11 de Lucy, com passagem mais rápida do tempo. A etapa concentra
+coleta, minigames de forja, tarefas administrativas, pequenas aventuras, treinamentos e aprendizado
+inicial das sombras.
 
 **[PROPOSTA]** Dividir em capítulos de progressão:
 
@@ -345,8 +353,8 @@ então desconhecido. Isso se torna público. A habilidade Forjadora de Mundos **
 
 #### Etapa B — Formação mágica
 
-**Foco confirmado:** instrução por elemento, Nero como professor de sombras e continuidade do
-desenvolvimento de Lucy.
+**Foco confirmado:** anos 12 e 13 de Lucy, com mais espaço narrativo para instrução por elemento,
+Nero como professor de sombras e continuidade do desenvolvimento de Lucy.
 
 **[PROPOSTA]** Capítulos:
 
@@ -358,8 +366,9 @@ desenvolvimento de Lucy.
 5. **Conclusão da formação inicial:** uma aventura local de encerramento que teste habilidades
    aprendidas, sem antecipar a ameaça mundial.
 
-**[A DEFINIR]** Número real de capítulos, ritmo, final, antagonistas locais e qualquer salto
-temporal.
+**[A DEFINIR]** Número real de capítulos, ritmo interno de cada ano, final, antagonistas locais e
+quais saltos temporais representar diretamente. A divisão entre as duas metades orienta o ritmo, mas
+não fixa a duração de cada capítulo.
 
 ### 6.2. Tipo de história
 
@@ -1101,7 +1110,7 @@ pré-produção.
 
 Os aspectos narrativos abaixo ainda precisam de definição e aprovação.
 
-- [ ] Idade de Lucy no começo e no final de _Little Garden_.
+- [ ] Distribuição exata dos capítulos entre os anos 9–11 e 12–13 de _Little Garden_.
 - [ ] Como Lucy entra para a guilda.
 - [ ] Relação de Lucy com a mãe/família na nova versão.
 - [ ] Como o sacrifício de Matthew afeta a infância.
