@@ -984,6 +984,10 @@ segunda metade, com mais espaço para o exame, a magia e o treinamento.
 _Little Garden_ acompanha Lucy durante sua formação como aprendiz da Guilda dos Aventureiros, ao
 lado de Nero.
 
+O [GDD de Little Garden](little-garden/README.md) detalha a proposta de combinar exploração Topdown
+com combate, aulas e minigames em Plataforma. Os dois modos compartilham progresso, personagens,
+inventário e consequências narrativas.
+
 A proposta combina pequenas aventuras, minigames, exploração, coleta de materiais, treinamento e
 progressão.
 

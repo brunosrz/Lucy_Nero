@@ -18,9 +18,19 @@ primeiro lançamento planejado da franquia **Lucy & Nero**.
 > - **[A DEFINIR]:** decisão em aberto.
 > - **[SEGREDO]:** informação de bastidores que personagens ou jogadores podem desconhecer.
 
-Consulte o [README](README.md) para a referência geral da continuidade e as fichas de
-[Lucy](lucy.md) e [Nero](nero.md) para os detalhes dos personagens. As propostas deste documento não
-representam sistemas já implementados.
+Consulte o [README](../README.md) para a referência geral da continuidade e as fichas de
+[Lucy](../lucy.md) e [Nero](../nero.md) para os detalhes dos personagens. As propostas deste
+documento não representam sistemas já implementados.
+
+## Referências visuais de Little Garden
+
+As imagens abaixo são turnarounds e estudos de sprites para orientar a produção visual do jogo. Elas
+são referências de desenvolvimento, não arte final aprovada.
+
+- [Turnaround de Lucy e Nero](assets/little-garden-turnaround-1.jpg): vistas, expressões, roupas e
+  formas animais.
+- [Sprites e perspectivas de gameplay](assets/little-garden-turnaround-2.jpg): referências para
+  Topdown, Plataforma, ações, equipamentos e exploração.
 
 ---
 
@@ -70,7 +80,8 @@ aberto.
 | **Tema central**                                    | Aprendizado, amizade, pequenas aventuras e desenvolvimento de habilidades                                                             |
 | **Elementos confirmados**                           | Minigames, exploração, encontros aleatórios com inimigos, coleta de materiais, forja, treinamento e tarefas administrativas da guilda |
 | **Grande marco narrativo**                          | Exame mágico de Lucy, por volta dos 12 anos [CÂNONE]                                                                                  |
-| **Plataformas, engine e câmera**                    | [A DEFINIR]                                                                                                                           |
+| **Perspectivas de gameplay**                        | Topdown para exploração; Plataforma para combate, aulas e minigames [CÂNONE]                                                          |
+| **Plataformas, engine e tecnologia**                | [A DEFINIR]                                                                                                                           |
 | **Classificação indicativa, monetização e duração** | [A DEFINIR]                                                                                                                           |
 
 ### 1.1. Visão do projeto
@@ -825,13 +836,49 @@ acesso às atividades.
 
 ### 16.1. Estrutura de mapa
 
-**[A DEFINIR]** Perspectiva, câmera, escala, carregamento de áreas, fast travel, ciclo de dia/noite
-e navegação.
+**[CÂNONE]** O jogo combina duas perspectivas em uma mesma experiência:
+
+- **Topdown:** visão principal para explorar a vila, regiões, missões, coleta, encontros e interação
+  com personagens e objetos.
+- **Plataforma:** visão lateral para combate detalhado, aulas de esgrima e magia, forja e outros
+  minigames que dependem de movimento, precisão ou animações específicas.
+
+**[PROPOSTA]** A transição ocorre quando Lucy inicia uma atividade compatível com a visão lateral.
+Ao concluir, o jogo retorna ao mapa Topdown com os resultados obtidos. A câmera, a escala, o
+carregamento de áreas, o fast travel, o ciclo de dia e noite e a navegação ainda precisam ser
+definidos para cada perspectiva.
+
+### 16.2. Regras de interação entre perspectivas
+
+As duas visões devem compartilhar personagens, progresso, inventário e consequências narrativas.
+
+- NPCs podem ser encontrados e receber pedidos no Topdown, e participar de cenas ou atividades em
+  Plataforma.
+- A exploração Topdown deve levar diretamente às atividades laterais, sem tratá-las como telas
+  desconectadas.
+- Combate e minigames em Plataforma devem devolver recompensas, ferimentos, materiais ou
+  desbloqueios ao estado da exploração.
+- O jogador deve reconhecer Lucy e Nero nas duas visões por silhueta, paleta e animações coerentes.
+- As formas de Nero podem ter funções distintas em cada perspectiva, respeitando as regras de sua
+  metamorfose e as formas disponíveis naquele momento.
+
+### 16.3. Atividades em Plataforma
+
+As atividades abaixo são a primeira proposta de escopo para a visão lateral. Cada uma ainda precisa
+de protótipo e critérios de aprovação próprios.
+
+| Atividade            | Função na campanha                                                             |
+| -------------------- | ------------------------------------------------------------------------------ |
+| Combate              | Encontros com movimentação, ataques, defesa e cooperação com Nero.             |
+| Forja                | Minigames de preparação, fabricação, gravação rúnica e acabamento.             |
+| Aulas de esgrima     | Treino de movimentação, armas, esquiva e defesa.                               |
+| Aulas de magia       | Exercícios de controle dos elementos após os desbloqueios narrativos.          |
+| Atividades da guilda | Tarefas administrativas ou interações que se beneficiem de animações e timing. |
 
 **[PROPOSTA]** Priorizar uma vila reconhecível, com pontos de interesse persistentes e regiões
 próximas reutilizadas com novas tarefas e desafios.
 
-### 16.2. Interfaces necessárias
+### 16.4. Interfaces necessárias
 
 **[PROPOSTA]** A lista abaixo propõe interfaces para organizar as atividades e apresentar a
 progressão ao jogador.
@@ -846,7 +893,7 @@ progressão ao jogador.
 - Registro de afinidades após o exame.
 - Indicação contextual das ações de Nero.
 
-### 16.3. Acessibilidade
+### 16.5. Acessibilidade
 
 **[PROPOSTA]** Remapeamento de controles, legendas, escala de texto, contraste, ajustes de
 dificuldade dos minigames, assistência para ações de tempo/precisão e opção de repetir tutoriais. As
