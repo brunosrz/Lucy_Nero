@@ -6,7 +6,8 @@ melhorias de documentação, propostas narrativas, referências visuais e corre�
 ## Referências e continuidade
 
 Leia o [README](README.md) e as [diretrizes](AGENTS.md). As fichas [Lucy](lucy.md) e [Nero](nero.md)
-preservam material anterior e não devem reintroduzir automaticamente elementos descontinuados.
+detalham os personagens na continuidade atual e identificam propostas visuais e questões pendentes.
+O README prevalece em caso de divergência; conteúdo descontinuado não deve retornar automaticamente.
 Diferencie cânone, propostas, questões não definidas e conteúdo descontinuado.
 
 ## Fluxo de trabalho
@@ -27,7 +28,7 @@ Exemplos: `docs(lore): esclarece a maturação dos Neko Ryuu` e
 
 ## Organização do conteúdo
 
-O README concentra a continuidade atual e a visão dos jogos. As fichas mantêm material histórico, e
+O README concentra a continuidade atual e a visão dos jogos. As fichas detalham os personagens, e
 public/ reúne referências visuais. Ao propor um documento novo, escolha um nome descritivo e
 adicione um link no documento que o contextualiza.
 

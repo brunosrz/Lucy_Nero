@@ -8,7 +8,8 @@ Toda alteração deve favorecer a coerência do universo e distinguir decisões 
 O [README](README.md) é a referência da continuidade atual e dos três jogos planejados. Não
 apresente conteúdo planejado como implementado.
 
-- As fichas [Lucy](lucy.md) e [Nero](nero.md) preservam material da continuidade anterior.
+- As fichas [Lucy](lucy.md) e [Nero](nero.md) detalham a continuidade atual e identificam propostas
+  visuais e questões pendentes. O README prevalece em caso de divergência.
 - A pasta public/ contém referências visuais, que não são automaticamente recursos finais aprovados.
 - A pasta utils/ contém ferramentas de manutenção, algumas herdadas do projeto de origem.
 - A pasta .github/ contém templates e automações; sua presença não comprova execução bem-sucedida.

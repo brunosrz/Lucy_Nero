@@ -1,1055 +1,491 @@
-# NERO — O GUARDIÃO DAS SOMBRAS
+# Nero — Bíblia de Personagem
 
-> **Material histórico — continuidade anterior de Lucy & Nero.**
->
-> Esta ficha é preservada como referência de desenvolvimento e não define o cânone atual. O nome
-> anterior do universo, as origens, os poderes e as mecânicas descritos abaixo podem divergir da
-> nova continuidade. Consulte o [README](README.md) para as informações atuais. Elementos
-> descontinuados ou não confirmados exigem revisão e aprovação antes de serem reutilizados.
+Esta ficha reúne a identidade, as capacidades e as referências de design de Nero na continuidade
+atual de **Lucy & Nero**.
 
-> Documento de Design de Personagem
->
-> Universo: Lucy — Uma Aventura Sangrenta
->
-> Personagem: Nero
->
-> Classificação: Criatura Mágica Única
->
-> Papel: Companheiro, Guardião e Aliado de Lucy
->
-> Status: Em Desenvolvimento
+> **Documentação interna · Universo Lucy & Nero · Contém spoilers** **Estado:** ficha revisada com
+> base no [README](README.md); os jogos e seus sistemas permanecem em desenvolvimento. **Legenda:**
+> **[Cânone]** estabelecido no README; **[Em desenvolvimento]** conceito com detalhes pendentes;
+> **[Não definido]** questão sem resposta; **[Proposta visual]** sugestão ainda não aprovada;
+> **[Descontinuado]** conteúdo anterior que não deve retornar automaticamente.
+
+O [README](README.md) prevalece em caso de divergência. Consulte também a ficha de [Lucy](lucy.md).
+Os detalhes visuais adicionais deste documento são propostas, não confirmação de arte final ou de
+recursos já implementados.
+
+## 1. Identidade
+
+A tabela resume as informações de referência do personagem na continuidade atual.
+
+| Campo                             | Informação                                                                  |
+| --------------------------------- | --------------------------------------------------------------------------- |
+| Nome                              | **Nero**                                                                    |
+| Espécie verdadeira                | **Neko Ryuu** — Gato Dragão                                                 |
+| Identidade individual             | **Dragão das Sombras**                                                      |
+| Idade em _Entre Espadas e Garras_ | **21 anos**                                                                 |
+| Idade ao conhecer Lucy            | **12 anos** (Lucy tinha 7)                                                  |
+| Estágio biológico                 | **Filhote** para sua espécie                                                |
+| Forma original atual              | **Gato Bengal melanístico**                                                 |
+| Formas alternativas conhecidas    | **Corvo e cavalo**                                                          |
+| Olhos                             | Verde-esmeralda em todas as formas                                          |
+| Paleta natural                    | Preto, rosetas/padrões escuros e verde-esmeralda                            |
+| Paleta dos equipamentos           | Preto, dourado e verde-esmeralda                                            |
+| Companheira                       | Lucy                                                                        |
+| Comunicação                       | Sons e linguagem corporal animal; não fala e não usa telepatia convencional |
+
+**Resumo:** Nero é um jovem Neko Ryuu, criatura ancestral constituída inteiramente de mana, que
+ainda desconhece sua própria espécie. Suas habilidades de sombras e metamorfose animal são
+**individuais**, não características de todos os Neko Ryuu. Ele vive aventuras antes de conhecer
+Lucy e, depois, constrói com ela um vínculo que permite o compartilhamento recíproco de poderes.
+
+## 2. Personalidade e comportamento
+
+Nero é uma criatura de inteligência **animal excepcional**, curioso, corajoso, atento e seletivo com
+sua confiança. Não é um humano em corpo de gato: conserva formas de comunicação, reações e
+expressões animais.
+
+- Demonstra emoções por postura, orelhas, cauda, olhos, gestos e vocalizações apropriadas a cada
+  forma.
+- Não fala, não mantém diálogos telepáticos e não precisa de fala para ser um personagem expressivo.
+- Age por observação, experiência, vínculos e compreensão da utilidade de cada forma.
+- Protege Lucy, mas também é protegido por ela; a relação é recíproca.
+- **[Em desenvolvimento]** Hábitos específicos, medos, preferências, humor e comportamentos
+  aprendidos em suas aventuras solo.
+
+## 3. Aparência e identidade visual
+
+Gato, corvo e cavalo preservam os olhos verde-esmeralda e os padrões escuros de Nero, respeitando a
+anatomia de cada animal.
+
+### 3.1. Forma original: gato Bengal melanístico
+
+A identidade felina de Nero se apoia nas características abaixo; proporções específicas do desenho
+ainda podem ser refinadas.
+
+- Pelagem **preta**, não cinza ou marrom.
+- **Rosetas Bengal escuras sobre o preto**, discretas mas legíveis sob iluminação apropriada.
+- **Olhos verde-esmeralda**, grandes e expressivos dentro da anatomia felina.
+- Corpo felino coerente, ágil, com patas, focinho, orelhas e cauda de gato.
+- Expressividade marcante sem humanizar excessivamente o rosto.
+
+**Regra visual:** Nero é um **gato**, não um cão, lobo ou raposa. Evitar focinho canino, proporções
+de cachorro e poses que confundam sua espécie.
+
+### 3.2. Formas alternativas
+
+**Corvo:** ave preta com olhos verde-esmeralda; os padrões escuros de Nero podem aparecer como sutis
+diferenças na plumagem. Anatomia correta de ave, com **um** bico, **duas** asas, **duas** patas e
+cauda de penas.
+
+**Cavalo:** equino preto com olhos verde-esmeralda; marcas escuras sutis adaptadas à pelagem.
+Anatomia correta de cavalo, com **uma** cabeça, **quatro** pernas e **uma** cauda. Não adicionar
+cabeça extra, cauda extra ou estruturas animais incompatíveis.
+
+### 3.3. Estilo
+
+A direção geral segue o anime shounen 2D do README; os refinamentos gráficos abaixo orientam a
+avaliação das propostas visuais.
+
+- **Anime/cartoon shounen 2D**, cel shading, contornos limpos.
+- Cores consistentes e silhuetas claras.
+- Mesmo padrão de olhos e identidade cromática nas três formas.
+- Evitar semi-realismo e estética seinen quando destoarem das referências de Lucy.
+- A paleta de equipamentos é **preto, dourado e verde-esmeralda**, não vermelho como cor-base.
+
+## 4. O segredo da espécie: Neko Ryuu
+
+A espécie explica a natureza de mana e o amadurecimento de Nero, mas não é a origem racial de suas
+capacidades sombrias.
+
+### 4.1. O que são
+
+**[Cânone]** Os Neko Ryuu, ou **Gatos Dragões**, são seres tratados como mitológicos no mundo de
+Lucy. São tão ancestrais quanto o próprio mundo e **constituídos inteiramente de mana**. Essa
+natureza não implica uma reserva utilizável ilimitada: a sustentação das formas de Nero possui
+limites.
+
+Isso não significa invulnerabilidade nem imortalidade.
+
+### 4.2. Mortalidade e reprodução
+
+O ciclo de vida dos Neko Ryuu combina longevidade, mortalidade e amadurecimento lento.
+
+- **São mortais.**
+- **Não renascem** após morrer.
+- Podem ter filhotes.
+- Levam **centenas de anos** para alcançar maturidade reprodutiva.
+- Nascem como pequenos gatos.
+- Ao amadurecer, passam por **metamorfose natural** e desenvolvem uma forma dracônica.
+
+### 4.3. Nero ainda é filhote
+
+Apesar dos **21 anos** no jogo principal, Nero continua sendo um filhote para sua espécie. Sua
+futura forma dracônica inicial também será a de um **dragão filhote**.
+
+Nero deverá desenvolver uma forma de **dragão filhote** daqui a algumas dezenas de anos; a
+maturidade adulta levará muito mais tempo.
+
+**[Em desenvolvimento]** Ritmo exato da maturação, tamanho, anatomia, capacidades e aparência do
+futuro dragão.
+
+### 4.4. Nero não sabe quem é
+
+**[Cânone]** Nero **desconhece que é um Neko Ryuu**. Sua origem verdadeira pode ser revelada ao
+jogador antes que o próprio personagem a descubra, especialmente em _As Crônicas de Nero_.
+
+**Não confundir:** a condição de Neko Ryuu é sua **espécie**; Dragão das Sombras é sua **habilidade
+inata individual**.
+
+## 5. O Dragão das Sombras
+
+Dragão das Sombras é a habilidade inata individual de Nero, cujas manifestações conhecidas são
+descritas a seguir.
+
+### 5.1. Natureza do poder
+
+**[Cânone]** A afinidade de Nero com sombras está ligada à sua habilidade inata individual. Isso
+**não é uma característica racial dos Neko Ryuu**.
+
+A habilidade inata de Nero é denominada **Dragão das Sombras**.
+
+As manifestações já estabelecidas incluem:
+
+- Manipulação de sombras.
+- Metamorfose voluntária em outros animais.
+- Entrada e permanência na sombra de Lucy.
+- Observação do ambiente enquanto está oculto.
+- Descanso e regeneração no refúgio sombrio.
+- Acesso ao inventário sombrio de Lucy.
+- Apoio à percepção de ameaças ao redor dela.
+
+**[Em desenvolvimento]** Extensão do poder, limites, técnicas ofensivas/defensivas e como exatamente
+comunica alertas enquanto permanece oculto.
+
+### 5.2. Sombras e almas
+
+No universo, **a sombra é considerada uma contraparte da alma**. Esse conceito é importante para
+entender a natureza das sombras e o vínculo profundo entre Nero e Lucy.
+
+**[Em desenvolvimento]** Regras cosmológicas, limites de acesso à sombra de outras pessoas e
+diferenças entre sombra física e sombra ligada à alma.
+
+### 5.3. Refúgio na sombra de Lucy
+
+O vínculo construído ao longo dos anos permite que Nero entre na sombra de Lucy e ali permaneça. Ele
+pode descansar, regenerar-se e observar o exterior, atuando como presença discreta e fonte adicional
+de percepção.
+
+Não é necessário que Nero esteja visível para acompanhar Lucy.
+
+## 6. Metamorfose sombria
+
+As transformações voluntárias de Nero dependem de familiaridade com os animais e de reserva
+suficiente para sustentar cada corpo.
+
+### 6.1. Origem
+
+**[Cânone]** As formas de corvo e cavalo decorrem da **compatibilidade individual de Nero com as
+sombras**, não de sua condição de Neko Ryuu.
+
+Nero adota formas de animais que conheceu, com os quais conviveu, desenvolveu vínculos e reconheceu
+vantagens práticas.
+
+### 6.2. Regra de mana
+
+**A transformação não gasta mana permanentemente.** No entanto, Nero precisa **possuir e reservar
+mana/sombra suficiente** para sustentar o corpo escolhido.
+
+- **Gato:** forma original, sem ampliação de tamanho.
+- **Corvo:** mesmo porte da forma felina; não exige reserva adicional para aumentar o corpo.
+- **Cavalo:** corpo muito maior; requer reserva significativa.
+- **Formas ainda maiores:** atualmente além de sua reserva ou capacidade de sustentação.
+
+Ao voltar à forma de gato, Nero **recupera a mana que estava comprometida** com a forma maior.
+
+**Distinção essencial:** reservar/sustentar energia não equivale a consumi-la em cada transformação.
+
+### 6.3. Forma de gato — identidade e controle
+
+**[Cânone]** É a forma original e a que Nero conhece melhor.
+
+Vantagens:
+
+- Melhor tempo de reação.
+- Maior agilidade.
+- Maior capacidade de expressar emoções.
+- Controle mais refinado das sombras e de seus poderes.
+
+Não é necessariamente a forma mais veloz em deslocamento prolongado; cavalo e corvo têm vantagens
+próprias.
+
+### 6.4. Forma de corvo — voo e reconhecimento
+
+**[Cânone]** Escolhida por Nero devido à convivência com corvos e à utilidade da forma.
+
+Vantagens:
+
+- Voo.
+- Excelente visão.
+- Observação a distância.
+- Exploração de locais inacessíveis às formas terrestres.
+
+**Tamanho:** equivalente ao porte da forma de gato.
+
+### 6.5. Forma de cavalo — força e transporte
+
+**[Cânone]** Escolhida por Nero devido à convivência com cavalos e à utilidade da forma.
+
+Vantagens:
+
+- Força superior.
+- Velocidade de deslocamento.
+- Capacidade de carregar Lucy e outras pessoas.
+
+**Limite:** exige muito mais mana reservada que gato ou corvo.
+
+### 6.6. Por que não vira dragão agora?
+
+Existem **dois processos diferentes**:
+
+1. **Metamorfose sombria voluntária:** Nero reproduz formas animais conhecidas. Ele **ainda não viu
+   um dragão** e não possui essa referência.
+2. **Maturação natural Neko Ryuu:** ao envelhecer, seu próprio corpo desenvolverá uma forma de
+   dragão, mesmo que ele não aprenda a imitá-la por sombras.
+
+Portanto, a forma dracônica **não** está disponível agora. Sua futura manifestação biológica não
+deve ser tratada como uma transformação sombria comum.
+
+## 7. Forma intermediária de sombra — referência de animação
+
+**[Proposta visual]** O material recebido sugere estudar a transição de forma animal para sombra e
+de sombra para outra forma animal. O estágio **meio-sombra** é uma proposta de animação, sem
+anatomia ou aparência aprovadas; não constitui uma quarta forma canônica nem uma nova habilidade.
+
+### Proposta de estágios visuais (não canonizar automaticamente)
+
+A sequência abaixo é um estudo possível de animação e depende de aprovação; não estabelece fases
+obrigatórias da metamorfose.
+
+1. Forma animal de origem íntegra.
+2. **Meio-sombra:** silhueta ainda reconhecível, com parte do corpo convertida em sombra.
+3. Estado sombrio de transição.
+4. Reconstrução da anatomia da forma de destino.
+5. Forma de destino íntegra.
+
+Os olhos verde-esmeralda podem servir como âncora visual durante a transição, **se esse efeito for
+aprovado**.
+
+Se a proposta for adotada, a transição deve permitir identificar a forma de origem e a de destino. O
+uso de um estágio intermediário ainda depende de aprovação artística.
+
+## 8. Equipamentos rúnicos criados por Lucy
+
+Lucy forja equipamentos que permitem a Nero utilizar propriedades elementais associadas à magia
+dela.
+
+### 8.1. Paleta
+
+A paleta-base dos equipamentos segue as cores estabelecidas no README.
+
+- Preto.
+- Dourado.
+- Verde-esmeralda.
+
+O vermelho não faz parte da paleta-base dos equipamentos de Nero. Efeitos temporários de fogo podem,
+naturalmente, ser vermelhos.
+
+### 8.2. Propostas por forma
+
+As peças abaixo são possibilidades de design, não um catálogo aprovado ou implementado.
+
+| Forma  | Peças de referência                             | Função conceitual                                    |
+| ------ | ----------------------------------------------- | ---------------------------------------------------- |
+| Gato   | Garras, presas, coleira/peitoral rúnico         | Canalização de propriedades mágicas                  |
+| Corvo  | Talões/garras, bico, penas ou proteção das asas | Aplicações mágicas adaptadas ao voo                  |
+| Cavalo | Cascos, arreios, proteção de testa/peito        | Aplicações mágicas adaptadas ao deslocamento e força |
+
+**[Em desenvolvimento]** Quais peças serão realmente usadas, como se adaptam à metamorfose, que
+runas carregam e quais efeitos são possíveis.
+
+### 8.3. Compartilhamento de poderes
+
+**[Cânone]** Lucy e Nero compartilham poderes **reciprocamente** através de seu vínculo, mesmo antes
+de compreenderem o fenômeno. A magia das sombras de Lucy deriva desse compartilhamento.
+
+Os equipamentos rúnicos são uma forma adicional de Lucy disponibilizar propriedades elementais a
+Nero. **Não presumir** que os artefatos sejam a única forma possível de compartilhamento, nem que
+Nero domine automaticamente todos os elementos sem eles.
+
+## 9. O vínculo com Lucy
+
+A relação entre Nero e Lucy se constrói pela convivência e inclui capacidades compartilhadas, com
+mecanismos ainda em desenvolvimento.
+
+- Nero é **cinco anos mais velho** que Lucy.
+- Conhecem-se quando Nero tem **12 anos** e Lucy **7**.
+- São companheiros, não mestre e animal de estimação.
+- A relação se desenvolve por convivência e confiança. Não está estabelecido que exista profecia ou
+  vínculo predeterminado entre os dois.
+- Nero ensina sombras a Lucy mesmo sem falar.
+- Lucy cria artefatos rúnicos para Nero.
+- Nero pode permanecer na sombra dela, observá-la e auxiliá-la.
+- Nero acessa o inventário sombrio que Lucy utiliza para guardar materiais, ferramentas e objetos.
+
+**[Em desenvolvimento]** As regras precisas do compartilhamento mágico e do acesso à sombra de Lucy.
+
+## 10. Nero nos três jogos
+
+Os papéis a seguir correspondem às propostas narrativas dos jogos; não indicam que campanhas ou
+recursos de gameplay estejam implementados.
+
+### 10.1. _As Crônicas de Nero_ — protagonista solo
+
+**Prelúdio cronológico.** O jogo acompanha a origem e as aventuras de Nero antes do encontro com
+Lucy.
+
+Objetivos narrativos estabelecidos:
+
+- Desenvolver Nero como protagonista independente.
+- Contar sua origem, inclusive fatos que ele mesmo desconhece.
+- Mostrar experiências e vínculos formados antes de Lucy.
+- Construir o contexto de suas capacidades e personalidade.
+- Terminar com o encontro com Lucy aos **12 anos**, quando ela tem **7**.
+
+**[Em desenvolvimento]** Idade no início do jogo, primeiros contatos com corvos/cavalos, quando
+descobre as transformações, estrutura da campanha e revelações ao jogador.
+
+### 10.2. _Lucy & Nero — Little Garden_ — companheiro e instrutor
+
+**Primeiro lançamento da franquia.** Nero acompanha Lucy em pequenas aventuras ao redor da vila,
+durante sua formação na guilda.
+
+- Atua como parceiro de exploração.
+- Suas diferentes formas podem oferecer oportunidades distintas de deslocamento e observação,
+  conforme forem introduzidas.
+- Já começa a ensinar sombras a Lucy **antes** do exame mágico dela.
+- Ambos compartilham poderes sem compreender inicialmente a conexão.
+- Após o exame, Nero é o **instrutor de sombras** de Lucy; os dois são os únicos praticantes
+  conhecidos desse elemento.
+
+**[Em desenvolvimento]** Momento exato em que Lucy descobre cada forma de Nero, como as formas se
+tornam utilizáveis no gameplay e que atividades serão dedicadas a ele.
+
+### 10.3. _Lucy & Nero — Entre Espadas e Garras_ — Dragão das Sombras
+
+Nero tem **21 anos** e Lucy **16**. Os dois formam uma dupla experiente, enfrentando uma ameaça
+capaz de colocar o mundo inteiro em risco.
+
+Nero continua sendo biologicamente **um filhote Neko Ryuu** e ainda não possui sua forma dracônica
+natural.
+
+Sua participação envolve as sombras, as formas de gato/corvo/cavalo, o vínculo com Lucy e os
+equipamentos rúnicos que ela cria.
+
+**[Em desenvolvimento]** Se e quando sua identidade como Neko Ryuu será revelada aos personagens; o
+alcance completo do Dragão das Sombras; seu papel específico diante da ameaça mundial.
+
+## 11. Turnaround — proposta de produção
+
+Esta seção propõe a organização de uma futura ficha visual. Vistas, estudos e sequência de
+transformação precisam de aprovação artística.
+
+### 11.1. Objetivo
+
+**[Proposta visual]** Criar uma ficha de personagem **anime shounen 2D**, com **fundo uniforme**,
+escala consistente, leitura clara e anatomia correta para **as três formas atuais**.
+
+### 11.2. Vistas por forma
+
+Para **gato**, **corvo** e **cavalo**, incluir:
+
+1. Frente.
+2. Costas.
+3. Perfil esquerdo.
+4. Perfil direito realmente oposto.
+5. Três-quartos.
+
+### 11.3. Estudos adicionais
+
+Os estudos abaixo podem complementar a ficha visual; a transição meio-sombra permanece uma proposta,
+sem confirmação como forma canônica.
+
+- Expressões faciais do gato.
+- Detalhes de olhos, rosetas e pelagem.
+- Equipamentos rúnicos por forma.
+- Variantes de efeitos elementais.
+- Sequência de transformação com **meio-sombra** legível.
+- Poses de ação corretas para cada espécie.
+
+### 11.4. Poses de referência
+
+As poses sugeridas exploram as funções e a anatomia de cada forma atual de Nero.
+
+- **Gato:** salto, deslocamento ágil, postura de atenção, furtividade e expressão emocional.
+- **Corvo:** voo, pouso, observação e mudança de direção no ar.
+- **Cavalo:** corrida, deslocamento com Lucy e postura de força.
+
+### 11.5. Erros a evitar
+
+A revisão visual deve preservar a anatomia, a identidade do personagem e a distinção entre cânone e
+propostas.
+
+- Transformar Nero em cachorro/lobo.
+- Criar cabeças, pernas, asas ou caudas extras.
+- Deformar a anatomia equina ou aviária.
+- Trocar a cor verde-esmeralda dos olhos.
+- Esquecer os padrões escuros Bengal.
+- Mudar o estilo visual entre painéis.
+- Repetir a mesma vista em vez de apresentar os perfis opostos.
+- Tratar a proposta meio-sombra como forma canônica antes de sua aprovação.
+- Mostrar a forma de dragão como transformação já disponível.
+
+## 12. Referências criativas
+
+Referências citadas para a construção do personagem e da espécie, **sem integração de suas histórias
+ao cânone**:
+
+- **Neko to Ryuu (The Cat and the Dragon)** — conceito temático de gato e dragão.
+- **Bijū (Naruto)** — referência para criaturas de mana/energia extraordinária.
+- **The Beginning After the End** — fantasia e relação com criaturas de natureza excepcional.
+- **Zygarde (Pokémon XY)** — referência para múltiplas formas e identidade reconhecível.
+
+## 13. Regras de continuidade
+
+As regras abaixo resumem os pontos estabelecidos para Nero e devem ser conferidas junto ao README.
+
+1. Nero é **Neko Ryuu**, mas não sabe disso.
+2. Aos **21 anos**, continua sendo **filhote**.
+3. Neko Ryuu são mortais, não renascem e levam séculos para amadurecer.
+4. A afinidade com sombras é **individual**, não racial.
+5. Gato é a forma original; corvo e cavalo são transformações sombrias.
+6. Transformar-se não consome mana permanentemente, mas exige reserva para sustentar corpos maiores.
+7. O corvo tem porte equivalente ao gato; o cavalo exige muito mais reserva.
+8. Nero ainda não viu dragões; sua forma dracônica natural surgirá apenas com o envelhecimento.
+9. Nero não fala nem usa telepatia comum.
+10. Nero e Lucy são amigos e companheiros, não dona e pet.
+11. Nero tem sempre **cinco anos a mais** que Lucy.
+12. Nero **não possui forma canina**.
+13. Seus equipamentos seguem preto, dourado e verde-esmeralda.
+
+## 14. Pendências de desenvolvimento
+
+Os itens abaixo continuam em aberto e não devem ser preenchidos automaticamente ao utilizar esta
+ficha.
+
+- [ ] História completa do nascimento e primeiros anos de Nero.
+- [ ] Primeiras aventuras e vínculos com outros animais.
+- [ ] Ordem de descoberta de corvo e cavalo.
+- [ ] Visual e regras definitivas da forma meio-sombra.
+- [ ] Mecânica completa de reserva/sustentação da metamorfose.
+- [ ] Limites de sua magia e percepção sombria.
+- [ ] Funcionamento do vínculo e compartilhamento recíproco.
+- [ ] Catálogo final de equipamentos rúnicos.
+- [ ] Momento em que Nero descobre ser Neko Ryuu.
+- [ ] Design das futuras formas de dragão filhote e adulto.
+- [ ] Turnaround final sem erros anatômicos.
 
 ---
 
-## 1. VISÃO GERAL
-
-Nero é uma criatura mágica única, cuja aparência natural é a de um gato da raça Bengal, de pelagem
-preta melanística e olhos verde-esmeralda.
-
-Apesar de sua aparência felina, Nero possui capacidades extraordinárias. É um transmorfo capaz de
-assumir voluntariamente as formas de corvo e cavalo, preservando suas características visuais em
-todas elas.
-
-Entretanto, sua verdadeira natureza vai muito além da metamorfose.
-
-Nero é uma criatura das sombras, capaz de interagir com uma dimensão espiritual associada à
-contraparte da alma dos seres vivos.
-
-Seu vínculo mais profundo é com Lucy, uma jovem guerreira e forjadora mágica com quem cresceu desde
-a infância.
-
-Nero é o guardião de Lucy, assim como Lucy é sua guardiã.
-
-Essa relação permite que ele encontre abrigo na própria sombra dela, onde pode descansar,
-regenerar-se, acompanhar suas viagens e observar o ambiente sem ser percebido.
-
-Embora possua inteligência animal excepcional, Nero não fala nem se comunica telepaticamente. Suas
-interações acontecem através de vocalizações, expressões e linguagem corporal.
-
-Sua personalidade combina curiosidade, coragem e seletividade social.
-
-Nero não é simplesmente um animal de estimação, uma montaria ou um familiar mágico subordinado. É um
-companheiro independente, cuja relação com Lucy é construída sobre confiança, afeto e experiências
-compartilhadas.
-
----
-
-## 2. IDENTIDADE
-
-| Característica        | Descrição                    |
-| --------------------- | ---------------------------- |
-| Nome                  | Nero                         |
-| Natureza              | Criatura mágica única        |
-| Classificação         | Criatura das Sombras         |
-| Forma natural         | Gato Bengal                  |
-| Transformações        | Corvo e Cavalo               |
-| Pelagem               | Preto melanístico            |
-| Padrões               | Rosetas negras discretas     |
-| Olhos                 | Verde-esmeralda              |
-| Inteligência          | Animal excepcional           |
-| Comunicação           | Sons e linguagem corporal    |
-| Temperamento          | Seletivo, curioso e corajoso |
-| Habilidade principal  | Manipulação das sombras      |
-| Habilidade secundária | Metamorfose                  |
-| Companheira           | Lucy                         |
-| Relação               | Guardiões um do outro        |
-
-### 2.1. Natureza única
-
-Nero não pertence a uma espécie conhecida de gatos transmorfos.
-
-Sua existência é excepcional, e suas capacidades não representam habilidades comuns aos animais de
-seu mundo.
-
-Embora tenha nascido com a capacidade de se transformar, sua origem específica permanece
-desconhecida.
-
-Não está estabelecido se existem outras criaturas das sombras com habilidades semelhantes.
-
-A singularidade de Nero não significa necessariamente que ele seja imortal, divino ou o último
-representante de uma espécie.
-
----
-
-## 3. APARÊNCIA FÍSICA
-
-### 3.1. Identidade visual
-
-A aparência de Nero é inspirada na raça Bengal, especialmente na variedade melanística.
-
-Sua pelagem apresenta um preto profundo, com rosetas de tonalidade ligeiramente diferente, criando
-padrões que podem ser percebidos conforme a iluminação.
-
-Seus olhos verde-esmeralda são uma característica permanente, independentemente da transformação.
-
-#### Características principais
-
-- Pelagem preta melanística.
-- Rosetas negras discretas.
-- Olhos verde-esmeralda.
-- Corpo naturalmente felino.
-- Movimentos ágeis e expressivos.
-- Identidade visual preservada nas três formas.
-
-### 3.2. Forma felina
-
-A forma original de Nero é a de um gato Bengal.
-
-Possui pelagem curta, corpo ágil e musculatura apropriada para movimentos rápidos, saltos e
-escaladas.
-
-Seu comportamento mantém características felinas, especialmente curiosidade, independência e
-interesse por explorar o ambiente.
-
-Essa é sua forma natural e uma das principais maneiras pelas quais demonstra afeto por Lucy.
-
-#### Funções
-
-- Exploração de espaços pequenos.
-- Movimentação discreta.
-- Escalada e saltos.
-- Combate próximo.
-- Companhia cotidiana.
-
-### 3.3. Forma de corvo
-
-Nero consegue assumir completamente a anatomia de um corvo.
-
-Sua pelagem é substituída por penas, mas as cores e os padrões característicos do Bengal permanecem.
-
-As rosetas são adaptadas à estrutura das penas, podendo apresentar formatos alongados nas asas.
-
-Os olhos continuam verde-esmeralda.
-
-#### Funções
-
-- Exploração aérea.
-- Reconhecimento de terrenos.
-- Observação de ameaças.
-- Acesso a lugares elevados.
-- Ataques aéreos.
-
-### 3.4. Forma de cavalo
-
-Nero também consegue assumir a anatomia completa de um cavalo.
-
-Sua pelagem mantém o preto melanístico e as rosetas características, distribuídas pelo pescoço,
-tronco e membros.
-
-A crina e a cauda possuem coloração negra.
-
-Essa forma permite que Nero transporte Lucy durante suas viagens.
-
-#### Funções
-
-- Transporte terrestre.
-- Viagens de longa distância.
-- Corridas e deslocamentos rápidos.
-- Investidas.
-- Combate por impacto.
-
-### 3.5. Regras visuais das transformações
-
-As transformações seguem princípios permanentes:
-
-1. Nero mantém a mesma identidade visual.
-2. Sua coloração permanece inalterada.
-3. As rosetas se adaptam à anatomia de cada animal.
-4. Seus olhos permanecem verde-esmeralda.
-5. Cada transformação possui anatomia animal completa.
-6. Não existem características híbridas obrigatórias.
-
-Nero não apresenta orelhas felinas quando está na forma de corvo, por exemplo.
-
-A transformação altera completamente o corpo, mas preserva a identidade e a consciência.
-
----
-
-## 4. PERSONALIDADE
-
-### 4.1. Inteligência animal excepcional
-
-Nero possui inteligência muito superior à de um animal comum.
-
-É capaz de compreender situações complexas, reconhecer padrões, memorizar caminhos e aprender
-através de experiências.
-
-Entretanto, sua inteligência não funciona necessariamente como a de um humano.
-
-Seu raciocínio permanece influenciado por instintos, sentidos e comportamentos animais.
-
-Nero não possui linguagem verbal humana.
-
-### 4.2. Sociabilidade seletiva
-
-Nero não demonstra confiança facilmente.
-
-Costuma observar desconhecidos antes de permitir aproximações.
-
-Seu afeto é reservado às pessoas com quem desenvolveu vínculos verdadeiros.
-
-Lucy é sua principal referência de confiança.
-
-### 4.3. Curiosidade
-
-A curiosidade é seu instinto dominante.
-
-Nero sente necessidade de investigar objetos, criaturas, ambientes e fenômenos desconhecidos.
-
-Essa característica pode levá-lo a descobrir caminhos e oportunidades que passariam despercebidos
-por outros personagens.
-
-Entretanto, sua curiosidade também pode colocá-lo em situações inesperadas.
-
-### 4.4. Coragem
-
-Diante de ameaças, Nero demonstra coragem.
-
-Não hesita necessariamente em enfrentar adversários maiores ou situações perigosas, especialmente
-quando alguém importante para ele está ameaçado.
-
-Sua coragem não elimina sua capacidade de reconhecer perigos ou utilizar estratégias de
-sobrevivência.
-
-### 4.5. Comunicação
-
-Nero se comunica através de:
-
-- Miados.
-- Ronronados.
-- Rosnados.
-- Vocalizações próprias de suas transformações.
-- Movimentos corporais.
-- Expressões faciais.
-- Olhares.
-- Gestos.
-- Comportamentos aprendidos.
-
-Não possui fala humana nem telepatia convencional.
-
-Lucy consegue interpretar muitos de seus comportamentos devido aos anos de convivência.
-
----
-
-## 5. HISTÓRIA
-
-### 5.1. Origens desconhecidas
-
-A origem de Nero permanece um mistério.
-
-Sabe-se que ele nasceu com suas capacidades metamórficas e possui uma ligação natural com a magia
-das sombras.
-
-Entretanto, ainda não foi estabelecido de onde veio, quem eram seus possíveis progenitores ou por
-que possui habilidades tão extraordinárias.
-
-Sua existência como criatura única é um dos mistérios do universo.
-
-### 5.2. O encontro com Lucy
-
-Durante a infância de Lucy, Nero apareceu espontaneamente em sua vida.
-
-Ele não foi entregue como presente, invocado através de magia ou designado oficialmente como
-guardião.
-
-Simplesmente apareceu.
-
-As circunstâncias exatas desse primeiro encontro ainda não foram estabelecidas.
-
-Inicialmente, Lucy não conhecia a verdadeira natureza de Nero.
-
-Para ela, ele aparentava ser um gato incomum, especialmente inteligente e curioso.
-
-A convivência entre os dois começou a construir uma relação de confiança.
-
-### 5.3. A descoberta das transformações
-
-Algum tempo depois do primeiro encontro, ainda durante a infância, Lucy descobriu que Nero conseguia
-assumir outras formas animais.
-
-O acontecimento exato que revelou essa capacidade ainda será desenvolvido.
-
-Essa descoberta ampliou a compreensão de Lucy sobre a natureza extraordinária de seu companheiro.
-
-### 5.4. Uma amizade construída
-
-Ao longo dos anos, Lucy e Nero compartilharam experiências que fortaleceram profundamente seu
-vínculo.
-
-A confiança entre eles não surgiu de um contrato mágico ou de uma obrigação sobrenatural.
-
-Foi construída através da convivência, do companheirismo e da proteção mútua.
-
-Esse vínculo eventualmente permitiu que Nero utilizasse uma de suas capacidades mais especiais:
-entrar na sombra de Lucy.
-
-### 5.5. Guardiões um do outro
-
-Nero tornou-se o guardião de Lucy, mas essa proteção nunca foi unilateral.
-
-Lucy também protege Nero.
-
-A relação entre ambos representa confiança e responsabilidade compartilhadas.
-
-Nero pode encontrar refúgio na sombra de Lucy, enquanto ela pode contar com suas capacidades para
-exploração, proteção e combate.
-
-Durante suas jornadas, os dois atuam como companheiros inseparáveis.
-
----
-
-## 6. MAGIA DAS SOMBRAS
-
-### 6.1. Princípio espiritual
-
-No universo de Lucy, a sombra é compreendida como a contraparte da alma.
-
-Isso significa que a sombra não é apenas a ausência de luz.
-
-Ela também possui significado espiritual e pode estabelecer relações profundas com a identidade de
-um indivíduo.
-
-A magia das sombras permite interagir com propriedades especiais dessa contraparte.
-
-Entretanto, determinadas aplicações exigem vínculos espirituais profundos.
-
-### 6.2. Vínculo entre Nero e Lucy
-
-Nero consegue entrar na sombra de Lucy porque ambos compartilham um vínculo excepcional.
-
-Essa capacidade não depende apenas de proximidade física.
-
-Ela está relacionada à confiança e à conexão espiritual desenvolvida ao longo da vida.
-
-A sombra de Lucy funciona como um refúgio para Nero.
-
-Esse vínculo não significa que Nero pertença a Lucy ou esteja subordinado à vontade dela.
-
----
-
-## 7. HABILIDADES MÁGICAS
-
-### 7.1. Metamorfose
-
-Nero nasceu com a capacidade de assumir três formas:
-
-- Gato Bengal.
-- Corvo.
-- Cavalo.
-
-#### Propriedades
-
-- Transformação voluntária.
-- Controle total.
-- Ausência de custo mágico.
-- Preservação da consciência.
-- Preservação da identidade visual.
-- Sem duração máxima estabelecida.
-
-As transformações não consomem mana.
-
-Entretanto, cada corpo continua sujeito às condições físicas naturais de sua anatomia.
-
-A ausência de custo mágico não significa resistência física infinita.
-
-### 7.2. Refúgio Sombrio
-
-Nero consegue entrar na sombra de Lucy e permanecer dentro dela.
-
-Enquanto está nesse estado, seu corpo deixa de estar visível no ambiente exterior.
-
-#### Aplicações
-
-- Descanso.
-- Transporte oculto.
-- Acompanhamento durante viagens.
-- Proteção.
-- Furtividade.
-- Recuperação.
-
-Nero pode permanecer na sombra sem precisar acompanhar Lucy fisicamente.
-
-### 7.3. Regeneração Sombria
-
-Enquanto permanece na sombra de Lucy, Nero consegue se regenerar.
-
-Essa capacidade permite utilizar a sombra como um ambiente de recuperação.
-
-#### Propriedades confirmadas
-
-- A regeneração ocorre dentro da sombra de Lucy.
-- Nero pode descansar durante o processo.
-- A capacidade está associada à sua natureza sombria.
-
-#### Aspectos ainda indefinidos
-
-- Velocidade da regeneração.
-- Limites da recuperação.
-- Condições que podem impedir a regeneração.
-
-### 7.4. Percepção Sombria
-
-Mesmo dentro da sombra de Lucy, Nero consegue observar o ambiente exterior.
-
-Sua percepção não é interrompida pelo fato de estar oculto.
-
-Isso permite que continue acompanhando os acontecimentos e identificando possíveis ameaças.
-
-### 7.5. Sexto Sentido
-
-Durante situações de furtividade, Nero atua como um sexto sentido para Lucy.
-
-Enquanto permanece oculto na sombra, consegue observar o ambiente e contribuir para a percepção de
-ameaças.
-
-Essa habilidade transforma Nero em um companheiro especialmente valioso durante exploração e
-stealth.
-
-O mecanismo exato pelo qual Lucy recebe essas informações ainda precisa ser estabelecido.
-
-Não está definido se ela percebe os alertas através de intuição, sensações espirituais ou outra
-manifestação da conexão entre ambos.
-
-### 7.6. Acesso ao Inventário Sombrio
-
-Nero consegue acessar os objetos armazenados na sombra de Lucy.
-
-Essa habilidade permite que ele interaja com os materiais e equipamentos guardados nesse espaço.
-
-A capacidade de armazenamento de Lucy é tratada como ilimitada.
-
-Ainda não foi definido se Nero também possui um inventário sombrio independente.
-
----
-
-## 8. LUCY E A MAGIA DAS SOMBRAS
-
-### 8.1. O aprendizado
-
-Nero foi responsável por ensinar magia das sombras a Lucy.
-
-Entretanto, as capacidades de Lucy são diferentes das de Nero.
-
-Enquanto Nero possui uma ligação natural e profunda com as sombras, Lucy consegue utilizar uma
-aplicação específica dessa magia.
-
-### 8.2. Inventário Sombrio
-
-Lucy consegue armazenar objetos em sua própria sombra.
-
-Essa capacidade funciona como um inventário mágico de capacidade infinita.
-
-#### Objetos armazenáveis
-
-- Materiais.
-- Minérios.
-- Componentes de forja.
-- Ferramentas.
-- Armas.
-- Armaduras.
-- Equipamentos.
-- Poções.
-- Artefatos.
-- Outros objetos materiais.
-
-#### Propriedades
-
-- Armazenamento de capacidade infinita.
-- Acesso mágico aos objetos.
-- Integração com as atividades de forja.
-- Possibilidade de acesso por Nero.
-
-Lucy não possui, até o momento, a capacidade estabelecida de entrar fisicamente nas sombras como
-Nero.
-
-Sua especialização está relacionada ao armazenamento e à manipulação de objetos materiais.
-
----
-
-## 9. FORJA MÁGICA E COMPARTILHAMENTO DE PODERES
-
-### 9.1. A contribuição de Lucy
-
-Lucy é uma guerreira e forjadora mágica.
-
-Ela consegue fabricar armas, ferramentas e artefatos encantados através de sua magia.
-
-Além de produzir equipamentos para si mesma, também desenvolve artefatos especialmente adaptados às
-características de Nero.
-
-Esses equipamentos permitem que Nero utilize parte do poder mágico elemental de Lucy.
-
-### 9.2. Compartilhamento elemental
-
-Os artefatos são encantados com runas criadas por Lucy.
-
-Através dessas runas, Nero consegue canalizar os elementos associados aos poderes dela.
-
-#### Elementos
-
-| Elemento     | Cor das runas |
-| ------------ | ------------- |
-| Fogo         | Vermelho      |
-| Água         | Azul          |
-| Eletricidade | Amarelo       |
-| Vento        | Verde         |
-
-Os artefatos não substituem os poderes naturais de Nero.
-
-Eles acrescentam capacidades elementais ao seu estilo de combate.
-
-Assim, os dois personagens compartilham conhecimentos e poderes de maneiras diferentes:
-
-- Nero ensinou Lucy a utilizar magia das sombras.
-- Lucy compartilha sua magia elemental através da forja rúnica.
-
-Essa reciprocidade é um dos principais aspectos da parceria.
-
----
-
-## 10. EQUIPAMENTOS RÚNICOS
-
-Os equipamentos de Nero são produzidos por Lucy e adaptados às suas diferentes anatomias.
-
-A seguir estão os equipamentos principais e propostas de expansão.
-
-### 10.1. Forma Felina
-
-#### Garras Rúnicas
-
-**Status: Conceito estabelecido**
-
-Revestimentos encantados para as garras naturais de Nero.
-
-Permitem canalizar energia elemental durante ataques físicos.
-
-Características:
-
-- Compatíveis com a anatomia felina.
-- Estrutura leve.
-- Encantamentos rúnicos.
-- Capacidade de receber infusão elemental.
-- Preservação da mobilidade.
-
-#### Presas Rúnicas
-
-**Status: Proposta de equipamento**
-
-Revestimentos encantados para os caninos de Nero.
-
-Permitem que mordidas sejam aprimoradas através da magia elemental.
-
-A aparência deve preservar as proporções naturais da boca felina.
-
-#### Coleira ou Peitoral Rúnico
-
-**Status: Proposta de equipamento**
-
-Artefato defensivo destinado à proteção de Nero.
-
-Pode receber encantamentos de resistência ou proteção mágica.
-
----
-
-### 10.2. Forma de Corvo
-
-#### Bico Rúnico
-
-**Status: Proposta de equipamento**
-
-Revestimento mágico que acompanha a anatomia do bico.
-
-Permite canalizar efeitos elementais durante ataques.
-
-O equipamento deve ser leve e não comprometer os movimentos naturais.
-
-#### Garras Rúnicas
-
-**Status: Proposta de equipamento**
-
-Revestimentos encantados para as garras das patas.
-
-Permitem ataques aéreos com efeitos mágicos.
-
-#### Penas Rúnicas
-
-**Status: Proposta de equipamento**
-
-Encantamentos associados às penas das asas.
-
-Poderiam permitir ataques mágicos através do movimento das asas, especialmente utilizando o elemento
-vento.
-
-O funcionamento específico ainda precisa ser definido.
-
----
-
-### 10.3. Forma de Cavalo
-
-#### Cascos Rúnicos
-
-**Status: Conceito estabelecido**
-
-Cascos postiços ou revestimentos encantados, semelhantes a ferraduras mágicas.
-
-Permitem canalizar magia elemental durante:
-
-- Coices.
-- Pisadas.
-- Corridas.
-- Investidas.
-
-#### Dentadura Rúnica
-
-**Status: Proposta de equipamento**
-
-Revestimentos encantados para os dentes.
-
-Permitem canalizar efeitos mágicos através de mordidas, preservando a anatomia natural do cavalo.
-
-#### Peitoral de Investida
-
-**Status: Proposta de equipamento**
-
-Armadura leve encantada para a região frontal do corpo.
-
-Pode ampliar a capacidade defensiva e canalizar magia durante investidas.
-
-#### Armadura Frontal
-
-**Status: Proposta de equipamento**
-
-Proteção encantada para a cabeça, especialmente testa e focinho.
-
-Destinada à proteção e aos movimentos de impacto.
-
----
-
-## 11. SISTEMA DE ARTEFATOS METAMÓRFICOS
-
-**Status: Proposta em avaliação**
-
-Uma possibilidade para o sistema de equipamentos é permitir que os artefatos de Nero se adaptem
-automaticamente às suas transformações.
-
-Nesse modelo, um mesmo artefato assume diferentes configurações conforme a anatomia atual.
-
-### 11.1. Artefato das Presas
-
-| Forma  | Manifestação     |
-| ------ | ---------------- |
-| Gato   | Presas Rúnicas   |
-| Corvo  | Bico Rúnico      |
-| Cavalo | Dentadura Rúnica |
-
-### 11.2. Artefato das Garras
-
-| Forma  | Manifestação   |
-| ------ | -------------- |
-| Gato   | Garras Rúnicas |
-| Corvo  | Garras Rúnicas |
-| Cavalo | Cascos Rúnicos |
-
-### 11.3. Artefato de Proteção
-
-| Forma  | Manifestação          |
-| ------ | --------------------- |
-| Gato   | Coleira ou Peitoral   |
-| Corvo  | Proteção das Asas     |
-| Cavalo | Peitoral de Investida |
-
-#### Vantagens da proposta
-
-- Equipamentos acompanham as transformações.
-- Menor necessidade de trocar itens manualmente.
-- Maior integração entre forja e metamorfose.
-- Identidade visual consistente.
-- Possibilidade de evolução dos artefatos.
-
-O funcionamento metamórfico ainda não foi aprovado como regra definitiva.
-
----
-
-## 12. POSSIBILIDADES DE COMBATE ELEMENTAL
-
-**Status: Propostas de gameplay**
-
-Os efeitos abaixo representam possibilidades para o uso das runas de Lucy nos equipamentos de Nero.
-
-Não são habilidades definitivas.
-
-### 12.1. Fogo
-
-#### Gato
-
-Garras e presas capazes de aplicar efeitos incendiários.
-
-#### Corvo
-
-Bico e garras capazes de canalizar chamas durante ataques aéreos.
-
-#### Cavalo
-
-Cascos que liberam energia flamejante durante impactos.
-
-### 12.2. Água
-
-#### Gato
-
-Ataques com energia aquática.
-
-#### Corvo
-
-Golpes acompanhados de manifestações de água.
-
-#### Cavalo
-
-Pisadas e investidas capazes de produzir impactos aquáticos.
-
-### 12.3. Eletricidade
-
-#### Gato
-
-Ataques rápidos acompanhados de descargas elétricas.
-
-#### Corvo
-
-Investidas aéreas eletrificadas.
-
-#### Cavalo
-
-Cascos capazes de liberar eletricidade durante impactos.
-
-### 12.4. Vento
-
-#### Gato
-
-Garras acompanhadas de rajadas cortantes.
-
-#### Corvo
-
-Movimentos das asas capazes de produzir ataques de vento.
-
-#### Cavalo
-
-Impulsos aerodinâmicos durante corridas e investidas.
-
----
-
-## 13. PAPEL NO GAMEPLAY
-
-Nero possui funções que vão além do combate.
-
-Sua presença pode integrar exploração, mobilidade, furtividade, inventário e suporte.
-
-### 13.1. Exploração
-
-#### Forma felina
-
-- Acesso a espaços pequenos.
-- Exploração de passagens estreitas.
-- Escalada.
-- Investigação de objetos.
-
-#### Forma de corvo
-
-- Reconhecimento aéreo.
-- Observação de terrenos.
-- Exploração vertical.
-- Identificação de caminhos.
-
-#### Forma de cavalo
-
-- Transporte de Lucy.
-- Deslocamento terrestre.
-- Travessia de grandes distâncias.
-
-### 13.2. Furtividade
-
-Nero pode entrar na sombra de Lucy e acompanhar seus movimentos sem ser visto.
-
-Enquanto permanece oculto, continua observando o ambiente.
-
-Essa capacidade pode auxiliar na identificação de ameaças durante sequências de stealth.
-
-### 13.3. Combate
-
-Nero pode utilizar suas formas animais e equipamentos rúnicos para participar de confrontos.
-
-Cada forma possui características diferentes:
-
-| Forma  | Especialização sugerida           |
-| ------ | --------------------------------- |
-| Gato   | Agilidade e ataques próximos      |
-| Corvo  | Mobilidade aérea e reconhecimento |
-| Cavalo | Investidas e impactos             |
-
-O sistema exato de controle de Nero durante o combate ainda não foi estabelecido.
-
-### 13.4. Suporte
-
-Nero pode oferecer suporte através de:
-
-- Observação de ameaças.
-- Acesso ao inventário sombrio.
-- Transporte.
-- Exploração.
-- Proteção.
-- Participação em combate.
-- Reconhecimento de ambientes.
-
-### 13.5. Recuperação
-
-Quando precisa descansar ou se recuperar, Nero pode retornar à sombra de Lucy.
-
-Sua regeneração permite que o refúgio sombrio tenha uma função importante na sobrevivência do
-personagem.
-
----
-
-## 14. RELAÇÃO ENTRE NERO E LUCY
-
-A relação entre Nero e Lucy representa um dos pilares emocionais e narrativos do jogo.
-
-Eles cresceram juntos e construíram um vínculo profundo através de experiências compartilhadas.
-
-Não existe uma relação de propriedade ou subordinação.
-
-Lucy não considera Nero apenas uma ferramenta de combate, assim como Nero não permanece ao lado dela
-por obrigação.
-
-Ambos se protegem.
-
-### 14.1. O que Nero oferece a Lucy
-
-- Companhia.
-- Proteção.
-- Magia das sombras.
-- Percepção adicional.
-- Transporte.
-- Apoio em combate.
-- Acesso compartilhado ao inventário.
-- Confiança construída desde a infância.
-
-### 14.2. O que Lucy oferece a Nero
-
-- Proteção.
-- Companheirismo.
-- Refúgio em sua sombra.
-- Um ambiente onde pode se regenerar.
-- Artefatos mágicos personalizados.
-- Acesso à magia elemental através das runas.
-- Confiança e afeto.
-
-### 14.3. O significado do vínculo
-
-A sombra é a contraparte da alma.
-
-Ao permitir que Nero encontre abrigo em sua sombra, Lucy compartilha com ele algo espiritualmente
-profundo.
-
-Nero, por sua vez, confia nela a ponto de utilizar esse espaço como refúgio.
-
-A relação simboliza proteção mútua, não dependência unilateral.
-
----
-
-## 15. DIREÇÃO ARTÍSTICA
-
-### 15.1. Identidade visual
-
-Nero deve ser reconhecível em todas as suas formas.
-
-#### Elementos permanentes
-
-- Preto melanístico.
-- Rosetas discretas.
-- Olhos verde-esmeralda.
-- Expressividade animal.
-- Runas elementais quando equipado.
-
-### 15.2. Magia das sombras
-
-A representação visual da magia sombria ainda precisa ser definida.
-
-Sugestões:
-
-- Distorções discretas na sombra de Lucy.
-- Transições fluidas entre corpo e sombra.
-- Efeitos escuros sem excesso de partículas.
-- Preservação da legibilidade visual no gameplay.
-
-### 15.3. Artefatos
-
-Os equipamentos devem parecer produzidos especificamente para Nero.
-
-Não devem comprometer a anatomia ou a movimentação natural de suas formas.
-
-#### Diretrizes
-
-- Materiais resistentes e leves.
-- Runas gravadas.
-- Formas anatômicas.
-- Encantamentos visíveis quando ativados.
-- Integração visual com os equipamentos de Lucy.
-
-### 15.4. Referências de turnaround
-
-O turnaround de Nero deve apresentar:
-
-- Forma felina completa.
-- Forma de corvo completa.
-- Forma de cavalo completa.
-- Vistas frontal, lateral e traseira.
-- Expressões características.
-- Close dos olhos.
-- Close das garras felinas.
-- Close das presas felinas.
-- Close do bico do corvo.
-- Close das garras do corvo.
-- Close dos cascos equinos.
-- Close da cabeça de cada forma.
-- Detalhamento das rosetas.
-- Equipamentos rúnicos.
-- Variações elementais.
-
----
-
-## 16. REGRAS CANÔNICAS
-
-As seguintes definições foram estabelecidas para o personagem:
-
-1. Nero é uma criatura mágica única.
-2. Sua forma original é um gato Bengal.
-3. Sua pelagem é preta melanística.
-4. Possui rosetas negras discretas.
-5. Seus olhos são verde-esmeralda.
-6. Pode transformar-se em corvo e cavalo.
-7. As transformações são inatas.
-8. Possui controle voluntário e total.
-9. As transformações não possuem custo mágico.
-10. Sua identidade visual permanece nas três formas.
-11. Possui inteligência animal excepcional.
-12. Não fala e não utiliza telepatia convencional.
-13. Comunica-se por sons e linguagem corporal.
-14. É seletivo socialmente.
-15. Seu instinto dominante é a curiosidade.
-16. Reage corajosamente ao perigo.
-17. Apareceu sozinho na infância de Lucy.
-18. Lucy descobriu suas transformações posteriormente.
-19. O vínculo entre ambos surgiu de experiências compartilhadas.
-20. Nero e Lucy são companheiros inseparáveis.
-21. Nero pode transportar Lucy na forma de cavalo.
-22. Nero é uma criatura das sombras.
-23. A sombra é considerada a contraparte da alma.
-24. Nero consegue entrar na sombra de Lucy devido ao vínculo profundo entre ambos.
-25. Pode descansar e viajar oculto nessa sombra.
-26. Regenera-se enquanto permanece nela.
-27. Consegue observar o exterior enquanto está oculto.
-28. Atua como sexto sentido de Lucy durante situações de stealth.
-29. Consegue acessar os objetos armazenados na sombra dela.
-30. Ensinou magia das sombras a Lucy.
-31. Lucy utiliza essa magia para armazenar objetos materiais.
-32. O inventário sombrio de Lucy possui capacidade infinita.
-33. Lucy fabrica artefatos rúnicos para Nero.
-34. Esses artefatos permitem compartilhar seu poder elemental.
-35. Nero e Lucy são guardiões um do outro.
-
----
-
-## 17. QUESTÕES EM ABERTO
-
-Os seguintes aspectos ainda precisam ser desenvolvidos.
-
-### História
-
-- Qual é a origem verdadeira de Nero?
-- De onde ele veio antes de encontrar Lucy?
-- Quantos anos tinha quando apareceu?
-- Qual era a idade de Lucy no primeiro encontro?
-- Como aconteceu a primeira transformação testemunhada?
-- Quais experiências fortaleceram o vínculo dos dois?
-- Como Nero ensinou magia das sombras a Lucy?
-
-### Magia
-
-- Como Lucy recebe os alertas do sexto sentido?
-- Como funciona a percepção de Nero dentro da sombra?
-- Existem condições para entrar ou sair da sombra?
-- Qual é o limite da regeneração?
-- Nero consegue acessar sombras de outras pessoas?
-- Existem outras criaturas capazes de utilizar magia semelhante?
-
-### Equipamentos
-
-- Os artefatos são individuais para cada forma ou metamórficos?
-- Nero consegue ativar as runas independentemente?
-- Lucy precisa ativar os elementos?
-- Os artefatos possuem durabilidade?
-- Podem evoluir através da forja?
-- Quais equipamentos serão definitivos?
-- Como os artefatos interagem com a magia das sombras?
-
-### Gameplay
-
-- Como o jogador controla Nero?
-- Ele age autonomamente durante o combate?
-- O jogador pode selecionar suas transformações?
-- Como funciona o sexto sentido?
-- Como ocorre o acesso ao inventário?
-- Como são utilizadas suas habilidades de regeneração?
-- Quais são suas habilidades especiais?
-
----
-
-## 18. SÍNTESE DO PERSONAGEM
-
-Nero é uma criatura mágica única, de aparência felina, cuja verdadeira natureza está profundamente
-ligada às sombras.
-
-Sua capacidade de assumir as formas de gato, corvo e cavalo oferece versatilidade, enquanto sua
-magia sombria permite que ele encontre refúgio na sombra de Lucy, recupere-se e acompanhe sua
-companheira sem ser percebido.
-
-Apesar de suas capacidades extraordinárias, Nero preserva uma personalidade genuinamente animal:
-curioso, corajoso, independente e seletivo.
-
-Sua relação com Lucy é construída sobre experiências compartilhadas desde a infância.
-
-Nero ensinou Lucy a utilizar magia das sombras, enquanto ela utiliza sua habilidade como forjadora
-para criar artefatos rúnicos capazes de compartilhar seus poderes elementais com ele.
-
-A força dessa parceria não está apenas nas habilidades individuais, mas na maneira como ambos
-complementam um ao outro.
-
-Nero protege Lucy.
-
-Lucy protege Nero.
-
-E a sombra que compartilham representa a profundidade desse vínculo.
-
----
-
-**Fim do documento — Nero, O Guardião das Sombras**
-
-**Status:** Documento consolidado, sujeito a futuras expansões.
+**Síntese:** Nero começa como um pequeno gato que desconhece a própria natureza, vive suas próprias
+aventuras, encontra Lucy e torna-se seu companheiro inseparável. Embora seja um ser ancestral feito
+de mana, aos 21 anos continua um filhote — e o dragão que um dia será ainda está muito distante.

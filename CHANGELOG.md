@@ -11,7 +11,12 @@ A documentação de apoio foi adaptada ao contexto da franquia.
 - Diretrizes de agentes, contribuição e revisão orientadas à consistência narrativa e visual.
 - Template de PR com critérios de aceitação e revisão de cânone.
 - Ferramentas herdadas documentadas com limites e pendências de adaptação.
-- Fichas anteriores de Lucy e Nero identificadas como material histórico.
+- Fichas anteriores de Lucy e Nero substituídas por versões revisadas com base na continuidade
+  atual.
+- Nome de Lucy alinhado ao README, sem reincorporar o sobrenome da versão anterior.
+- Distinção entre poderes confirmados, limites pendentes e propostas visuais, incluindo a transição
+  meio-sombra de Nero e os estudos de turnaround.
+- Descrições após os títulos e links entre as fichas e a referência principal.
 
 ## Automação de versões
 

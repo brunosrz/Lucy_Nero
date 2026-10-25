@@ -5,9 +5,10 @@ clareza da documentação e a correção das ferramentas de manutenção da fran
 
 ## Continuidade e propostas
 
-O README é a referência atual. As fichas antigas preservam material histórico; não use esse conteúdo
-para contradizer a continuidade ou preencher questões em aberto. Distinga fatos confirmados,
-propostas, conteúdo descontinuado e funcionalidades implementadas.
+O README é a referência atual. As fichas de [Lucy](../lucy.md) e [Nero](../nero.md) detalham os
+personagens e identificam propostas e pendências. Confira a consistência entre esses documentos; não
+transforme uma proposta visual em cânone nem preencha questões em aberto. Distinga fatos
+confirmados, propostas, conteúdo descontinuado e funcionalidades implementadas.
 
 Confira idades, cronologia, afinidades e habilidades inatas. Distinga a forja aprendida da Forjadora
 de Mundos e a metamorfose sombria da maturação dos Neko Ryuu.
