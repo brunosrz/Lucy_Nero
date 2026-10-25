@@ -1,10 +1,17 @@
-# LUCY MORNINGSTAR — A PORTADORA DA LUZ
+# Lucy — A PORTADORA DA LUZ
+
+> **Material histórico — continuidade anterior de Lucy & Nero.**
+>
+> Esta ficha é preservada como referência de desenvolvimento e não define o cânone atual. O nome
+> anterior do universo, as origens, os poderes e as mecânicas descritos abaixo podem divergir da
+> nova continuidade. Consulte o [README](README.md) para as informações atuais. Elementos
+> descontinuados ou não confirmados exigem revisão e aprovação antes de serem reutilizados.
 
 > Documento de Design de Personagem
 >
 > Universo: Lucy — Uma Aventura Sangrenta
 >
-> Personagem: Lucy Morningstar
+> Personagem: Lucy
 >
 > Classificação: Humana com Aptidão Mágica Excepcional
 >
@@ -20,27 +27,37 @@
 
 ## 1. VISÃO GERAL
 
-Lucy Morningstar é uma jovem guerreira de 16 anos, reconhecida por suas habilidades extraordinárias em combate, magia elemental e forja mágica.
+Lucy é uma jovem guerreira de 16 anos, reconhecida por suas habilidades extraordinárias em combate,
+magia elemental e forja mágica.
 
-Filha de Matthew, um antigo soldado e ferreiro, e Sarah, uma curandeira e herbalista, Lucy nasceu durante um período de grandes transformações no mundo, marcado pelo surgimento de monstros e criaturas mágicas.
+Filha de Matthew, um antigo soldado e ferreiro, e Sarah, uma curandeira e herbalista, Lucy nasceu
+durante um período de grandes transformações no mundo, marcado pelo surgimento de monstros e
+criaturas mágicas.
 
-Desde o nascimento, sua existência está associada à intervenção de um espírito mágico que auxiliou seu pai durante uma batalha desesperada pela sobrevivência de sua família.
+Desde o nascimento, sua existência está associada à intervenção de um espírito mágico que auxiliou
+seu pai durante uma batalha desesperada pela sobrevivência de sua família.
 
-Criada em uma comunidade de sobreviventes, Lucy desenvolveu habilidades excepcionais através de treinamento, estudo e experiência.
+Criada em uma comunidade de sobreviventes, Lucy desenvolveu habilidades excepcionais através de
+treinamento, estudo e experiência.
 
-Sua especialidade é a combinação de técnicas de combate com armas que ela mesma fabrica, utilizando magia para criar equipamentos capazes de conduzir diferentes elementos.
+Sua especialidade é a combinação de técnicas de combate com armas que ela mesma fabrica, utilizando
+magia para criar equipamentos capazes de conduzir diferentes elementos.
 
 Entretanto, suas capacidades não se limitam à magia elemental.
 
-Durante a infância, Lucy desenvolveu uma amizade profunda com Nero, uma criatura mágica única que possui a aparência natural de um gato Bengal preto melanístico.
+Durante a infância, Lucy desenvolveu uma amizade profunda com Nero, uma criatura mágica única que
+possui a aparência natural de um gato Bengal preto melanístico.
 
 Nero é um transmorfo e uma criatura das sombras.
 
-Através da convivência e das experiências compartilhadas, os dois estabeleceram um vínculo espiritual excepcional.
+Através da convivência e das experiências compartilhadas, os dois estabeleceram um vínculo
+espiritual excepcional.
 
-Esse vínculo permitiu que Nero encontrasse abrigo na sombra de Lucy e, posteriormente, ensinasse a ela uma aplicação específica da magia das sombras.
+Esse vínculo permitiu que Nero encontrasse abrigo na sombra de Lucy e, posteriormente, ensinasse a
+ela uma aplicação específica da magia das sombras.
 
-Lucy aprendeu a utilizar sua própria sombra como um espaço de armazenamento mágico, capaz de guardar uma quantidade ilimitada de materiais, equipamentos e outros objetos.
+Lucy aprendeu a utilizar sua própria sombra como um espaço de armazenamento mágico, capaz de guardar
+uma quantidade ilimitada de materiais, equipamentos e outros objetos.
 
 Essa habilidade complementa diretamente sua especialização como forjadora.
 
@@ -56,7 +73,7 @@ A relação entre ambos representa um dos principais pilares da história.
 
 | Característica          | Descrição                        |
 | ----------------------- | -------------------------------- |
-| Nome completo           | Lucy Morningstar                 |
+| Nome completo           | Lucy                             |
 | Idade                   | 16 anos                          |
 | Espécie                 | Humana                           |
 | Altura                  | Aproximadamente 1,65 m           |
@@ -81,11 +98,13 @@ O nome Lucy está associado à luz.
 
 Seu sobrenome, Morningstar, significa Estrela da Manhã.
 
-Segundo a história de sua origem, Matthew chamou sua filha de sua estrela da manhã pouco antes de morrer.
+Segundo a história de sua origem, Matthew chamou sua filha de sua estrela da manhã pouco antes de
+morrer.
 
 Sarah preservou essa lembrança ao escolher o nome da criança.
 
-A associação entre luz, esperança e um novo amanhecer tornou-se parte importante da identidade de Lucy.
+A associação entre luz, esperança e um novo amanhecer tornou-se parte importante da identidade de
+Lucy.
 
 ### 2.2. Identidade temática
 
@@ -101,7 +120,8 @@ Lucy representa uma combinação de conceitos:
 
 A presença de Nero acrescenta uma dimensão importante à personagem.
 
-Lucy, cuja origem está simbolicamente associada à luz, desenvolveu uma ligação profunda com uma criatura das sombras.
+Lucy, cuja origem está simbolicamente associada à luz, desenvolveu uma ligação profunda com uma
+criatura das sombras.
 
 Essa relação não representa uma oposição entre bem e mal.
 
@@ -129,7 +149,8 @@ Seus olhos podem apresentar um brilho místico durante a utilização de magia.
 
 ### 3.2. Identidade visual
 
-A identidade visual de Lucy combina elementos de fantasia medieval, vestimentas orientais e equipamentos mágicos.
+A identidade visual de Lucy combina elementos de fantasia medieval, vestimentas orientais e
+equipamentos mágicos.
 
 Sua paleta principal é composta por:
 
@@ -150,7 +171,8 @@ O design deve transmitir agilidade, experiência em combate e afinidade mágica.
 
 Lucy utiliza um kimono de batalha que combina elementos tradicionais e modernos.
 
-O traje é confeccionado com materiais resistentes, leves e flexíveis, permitindo liberdade de movimento.
+O traje é confeccionado com materiais resistentes, leves e flexíveis, permitindo liberdade de
+movimento.
 
 Sua coloração predominante é preta, com detalhes vermelhos e dourados.
 
@@ -184,7 +206,8 @@ Além de melhorar a aderência às armas e ferramentas, possuem pequenas runas d
 
 Seu cinto possui compartimentos para objetos de acesso rápido.
 
-Embora Lucy possua um inventário sombrio ilimitado, o cinto ainda pode ser utilizado para carregar ferramentas e consumíveis que precisam estar imediatamente disponíveis.
+Embora Lucy possua um inventário sombrio ilimitado, o cinto ainda pode ser utilizado para carregar
+ferramentas e consumíveis que precisam estar imediatamente disponíveis.
 
 ### 4.7. Capa
 
@@ -232,7 +255,8 @@ Sua coragem e determinação inspiram confiança nas pessoas ao seu redor.
 
 Lucy possui um vínculo afetivo e espiritual profundo com Nero.
 
-A convivência desde a infância permite que ela compreenda muitos de seus comportamentos, vocalizações e expressões.
+A convivência desde a infância permite que ela compreenda muitos de seus comportamentos,
+vocalizações e expressões.
 
 Lucy não considera Nero uma propriedade.
 
@@ -257,7 +281,8 @@ Da mesma forma, Lucy assume a responsabilidade de protegê-lo.
 
 Matthew era um jovem soldado conhecido por sua determinação e coragem.
 
-Sarah era uma curandeira e herbalista dedicada ao tratamento de enfermos e à preparação de medicamentos.
+Sarah era uma curandeira e herbalista dedicada ao tratamento de enfermos e à preparação de
+medicamentos.
 
 Os dois se conheceram em um vilarejo isolado.
 
@@ -267,7 +292,8 @@ Durante esse período, Sarah cuidava dos soldados e caçadores que precisavam de
 
 A convivência aproximou os dois, dando início a um relacionamento.
 
-Posteriormente, Matthew deixou o exército e passou a trabalhar como caçador, professor de esgrima e fabricante de armas.
+Posteriormente, Matthew deixou o exército e passou a trabalhar como caçador, professor de esgrima e
+fabricante de armas.
 
 Sarah continuou trabalhando como curandeira e herbalista.
 
@@ -277,7 +303,8 @@ Durante a gravidez de Sarah, criaturas até então consideradas lendárias come�
 
 Entre elas estavam os monstros conhecidos como Monstons.
 
-O surgimento dessas criaturas provocou ataques e obrigou habitantes de diferentes regiões a abandonar seus lares.
+O surgimento dessas criaturas provocou ataques e obrigou habitantes de diferentes regiões a
+abandonar seus lares.
 
 Matthew e Sarah estavam entre os sobreviventes que tentaram alcançar uma montanha isolada.
 
@@ -287,17 +314,20 @@ Durante a fuga, Sarah entrou em trabalho de parto.
 
 Matthew permaneceu ao seu lado enquanto enfrentava as criaturas que ameaçavam sua família.
 
-Em determinado momento, um espírito mágico interveio e concedeu a Matthew poder suficiente para continuar protegendo Sarah.
+Em determinado momento, um espírito mágico interveio e concedeu a Matthew poder suficiente para
+continuar protegendo Sarah.
 
 Entretanto, seu corpo humano não estava preparado para receber plenamente aquela energia.
 
-O poder fortaleceu temporariamente sua capacidade de combate, mas não conseguiu curar seus ferimentos internos.
+O poder fortaleceu temporariamente sua capacidade de combate, mas não conseguiu curar seus
+ferimentos internos.
 
 Sarah deu à luz Lucy.
 
-Antes de morrer, Matthew chamou sua filha de sua estrela da manhã e expressou sua esperança de que ela trouxesse um novo amanhecer ao mundo.
+Antes de morrer, Matthew chamou sua filha de sua estrela da manhã e expressou sua esperança de que
+ela trouxesse um novo amanhecer ao mundo.
 
-Sarah escolheu o nome Lucy Morningstar em homenagem às últimas palavras do marido.
+Sarah escolheu o nome Lucy em homenagem às últimas palavras do marido.
 
 ### 6.4. A infância
 
@@ -311,9 +341,11 @@ Com o passar dos anos, tornou-se uma guerreira excepcional.
 
 Também desenvolveu capacidades mágicas relacionadas à proteção da comunidade.
 
-Na versão original da história, Lucy era capaz de criar uma barreira mágica resistente para proteger o vilarejo.
+Na versão original da história, Lucy era capaz de criar uma barreira mágica resistente para proteger
+o vilarejo.
 
-Essa habilidade permanece como parte do material histórico do projeto, mas seus detalhes atuais ainda precisam ser reconstruídos.
+Essa habilidade permanece como parte do material histórico do projeto, mas seus detalhes atuais
+ainda precisam ser reconstruídos.
 
 ---
 
@@ -347,7 +379,8 @@ O vínculo surgiu naturalmente.
 
 ### 7.3. A descoberta da metamorfose
 
-Algum tempo depois do primeiro encontro, ainda durante a infância, Lucy descobriu que Nero era capaz de assumir outras formas animais.
+Algum tempo depois do primeiro encontro, ainda durante a infância, Lucy descobriu que Nero era capaz
+de assumir outras formas animais.
 
 Além de gato, Nero conseguia transformar-se em corvo e cavalo.
 
@@ -365,7 +398,8 @@ Ele passou a conseguir entrar na sombra de Lucy.
 
 Essa habilidade representa uma conexão espiritual entre os dois.
 
-Nero encontrou na sombra de Lucy um refúgio seguro, enquanto Lucy passou a contar com sua presença mesmo quando ele não estava fisicamente visível.
+Nero encontrou na sombra de Lucy um refúgio seguro, enquanto Lucy passou a contar com sua presença
+mesmo quando ele não estava fisicamente visível.
 
 ### 7.5. Guardiões um do outro
 
@@ -490,9 +524,11 @@ Pode receber reforços mágicos para aumentar sua capacidade defensiva.
 
 ### 10.4. Outras armas
 
-A versão original do projeto estabelecia que Lucy poderia adquirir outras armas ao longo da aventura.
+A versão original do projeto estabelecia que Lucy poderia adquirir outras armas ao longo da
+aventura.
 
-Entretanto, ela precisava fabricar seus próprios equipamentos para garantir a condutividade mágica necessária.
+Entretanto, ela precisava fabricar seus próprios equipamentos para garantir a condutividade mágica
+necessária.
 
 Essa característica permanece como referência para o desenvolvimento do sistema de forja.
 
@@ -523,11 +559,13 @@ Utiliza magia aquática para ampliar temporariamente o alcance da lâmina.
 
 #### Ataque Rápido
 
-Lucy executa um deslocamento extremamente rápido, semelhante a um teletransporte, atingindo adversários em seu caminho.
+Lucy executa um deslocamento extremamente rápido, semelhante a um teletransporte, atingindo
+adversários em seu caminho.
 
 #### Afiação e Rotação
 
-Lucy realiza ataques giratórios contínuos, utilizando magia do vento para ampliar a capacidade ofensiva.
+Lucy realiza ataques giratórios contínuos, utilizando magia do vento para ampliar a capacidade
+ofensiva.
 
 ### 11.2. Arco e flecha
 
@@ -564,7 +602,8 @@ Permite influenciar magicamente a trajetória de uma flecha através do elemento
 
 Lucy é uma forjadora mágica.
 
-Sua habilidade permite fabricar armas, equipamentos, ferramentas e artefatos utilizando materiais e magia.
+Sua habilidade permite fabricar armas, equipamentos, ferramentas e artefatos utilizando materiais e
+magia.
 
 A forja não é apenas uma atividade secundária.
 
@@ -572,7 +611,8 @@ Ela faz parte de sua identidade e de seu estilo de combate.
 
 ### 12.2. Armas iniciais
 
-Na versão original do projeto, Lucy conseguia forjar suas armas iniciais utilizando exclusivamente mana.
+Na versão original do projeto, Lucy conseguia forjar suas armas iniciais utilizando exclusivamente
+mana.
 
 Isso incluía sua katana e seu arco.
 
@@ -591,9 +631,11 @@ O funcionamento exato desse sistema na versão atual ainda precisa ser revisado.
 
 ### 12.4. Condutividade mágica
 
-Uma das características mais importantes da forja de Lucy é a capacidade de produzir equipamentos compatíveis com sua magia.
+Uma das características mais importantes da forja de Lucy é a capacidade de produzir equipamentos
+compatíveis com sua magia.
 
-Na versão original, armas comuns não possuíam a condutividade necessária para que ela utilizasse plenamente seus poderes.
+Na versão original, armas comuns não possuíam a condutividade necessária para que ela utilizasse
+plenamente seus poderes.
 
 Por isso, Lucy dependia de armas criadas por si mesma.
 
@@ -601,9 +643,11 @@ Por isso, Lucy dependia de armas criadas por si mesma.
 
 O sistema original previa equipamentos sujeitos a desgaste e quebra.
 
-Quando uma arma fosse destruída, sua versão inicial poderia ser recriada através de magia, exigindo determinado tempo.
+Quando uma arma fosse destruída, sua versão inicial poderia ser recriada através de magia, exigindo
+determinado tempo.
 
-Essa mecânica permanece como referência histórica, mas ainda precisa ser confirmada para a versão atual.
+Essa mecânica permanece como referência histórica, mas ainda precisa ser confirmada para a versão
+atual.
 
 ### 12.6. Fabricação de poções
 
@@ -613,7 +657,8 @@ O sistema original previa materiais específicos e progressão de habilidade.
 
 Sua mãe, Sarah, era curandeira e herbalista.
 
-Entretanto, ainda não foi estabelecido quanto do conhecimento de Lucy nessa área foi aprendido diretamente com Sarah.
+Entretanto, ainda não foi estabelecido quanto do conhecimento de Lucy nessa área foi aprendido
+diretamente com Sarah.
 
 ---
 
@@ -638,13 +683,16 @@ Sua aparência pode mudar conforme o elemento utilizado.
 
 ### 13.3. Artefatos para Nero
 
-Lucy também utiliza sua capacidade de forja para criar equipamentos especialmente desenvolvidos para Nero.
+Lucy também utiliza sua capacidade de forja para criar equipamentos especialmente desenvolvidos para
+Nero.
 
 Esses artefatos são adaptados às características físicas de suas transformações.
 
-Através dos encantamentos rúnicos, Nero consegue utilizar poderes elementais compartilhados por Lucy.
+Através dos encantamentos rúnicos, Nero consegue utilizar poderes elementais compartilhados por
+Lucy.
 
-Essa aplicação da forja representa uma das principais formas pelas quais Lucy fortalece seu companheiro.
+Essa aplicação da forja representa uma das principais formas pelas quais Lucy fortalece seu
+companheiro.
 
 ---
 
@@ -700,7 +748,8 @@ Proposta de equipamento destinado a proteção e ataques de impacto.
 
 ### 14.4. Artefatos metamórficos
 
-Existe a proposta de que os equipamentos de Nero possam mudar de configuração conforme sua transformação.
+Existe a proposta de que os equipamentos de Nero possam mudar de configuração conforme sua
+transformação.
 
 Por exemplo:
 
@@ -720,7 +769,8 @@ Esse sistema ainda não foi definido como canônico.
 
 Lucy aprendeu magia das sombras através de Nero.
 
-Diferentemente da magia elemental e de suas capacidades de forja, esse conhecimento surgiu diretamente da convivência com seu companheiro.
+Diferentemente da magia elemental e de suas capacidades de forja, esse conhecimento surgiu
+diretamente da convivência com seu companheiro.
 
 Nero é uma criatura naturalmente ligada às sombras.
 
@@ -730,7 +780,8 @@ Lucy, por outro lado, possui uma aplicação mais limitada dessa magia.
 
 No universo do jogo, a sombra é considerada a contraparte da alma.
 
-Essa interpretação atribui às sombras uma natureza espiritual que ultrapassa o fenômeno físico da ausência de luz.
+Essa interpretação atribui às sombras uma natureza espiritual que ultrapassa o fenômeno físico da
+ausência de luz.
 
 A magia das sombras permite interagir com propriedades dessa contraparte.
 
@@ -742,9 +793,11 @@ Lucy não possui todas as habilidades sombrias de Nero.
 
 Sua utilização conhecida da magia das sombras está restrita a materiais e objetos.
 
-Ela consegue armazenar e recuperar equipamentos, ferramentas e outros itens através da própria sombra.
+Ela consegue armazenar e recuperar equipamentos, ferramentas e outros itens através da própria
+sombra.
 
-Não está estabelecido que Lucy consiga entrar fisicamente em sombras, regenerar-se nelas ou assumir uma forma sombria.
+Não está estabelecido que Lucy consiga entrar fisicamente em sombras, regenerar-se nelas ou assumir
+uma forma sombria.
 
 ---
 
@@ -780,7 +833,8 @@ O inventário não possui limite de quantidade ou espaço estabelecido.
 
 Sua capacidade é considerada infinita.
 
-Isso permite que Lucy transporte grandes quantidades de materiais sem depender de bolsas ou recipientes convencionais.
+Isso permite que Lucy transporte grandes quantidades de materiais sem depender de bolsas ou
+recipientes convencionais.
 
 ### 16.4. Integração com a forja
 
@@ -822,7 +876,8 @@ Enquanto permanece na sombra, Nero consegue se regenerar.
 
 A sombra de Lucy funciona como um ambiente de descanso e recuperação.
 
-Lucy, portanto, oferece ao companheiro um refúgio que possui importância direta para sua sobrevivência.
+Lucy, portanto, oferece ao companheiro um refúgio que possui importância direta para sua
+sobrevivência.
 
 ### 17.3. Viagens
 
@@ -846,7 +901,8 @@ Essa reciprocidade representa uma das principais manifestações do vínculo ent
 
 ### 18.1. Conceito
 
-Durante situações de furtividade, Nero pode permanecer na sombra de Lucy enquanto observa o ambiente exterior.
+Durante situações de furtividade, Nero pode permanecer na sombra de Lucy enquanto observa o ambiente
+exterior.
 
 Mesmo oculto, continua consciente dos acontecimentos ao redor.
 
@@ -862,7 +918,8 @@ Essa capacidade permite que atue como um sexto sentido para Lucy.
 
 ### 18.3. Comunicação dos alertas
 
-Embora Nero consiga observar o exterior enquanto permanece na sombra, o mecanismo exato de compartilhamento dessas informações ainda não foi definido.
+Embora Nero consiga observar o exterior enquanto permanece na sombra, o mecanismo exato de
+compartilhamento dessas informações ainda não foi definido.
 
 Possibilidades a serem avaliadas:
 
@@ -877,7 +934,8 @@ Nenhuma dessas possibilidades foi estabelecida como definitiva.
 
 O Sexto Sentido pode funcionar como uma mecânica de suporte durante exploração e stealth.
 
-Sua implementação deve reforçar a participação de Nero mesmo quando ele não estiver fisicamente presente.
+Sua implementação deve reforçar a participação de Nero mesmo quando ele não estiver fisicamente
+presente.
 
 ---
 
@@ -905,13 +963,16 @@ O documento original também previa um estado especial de combate.
 
 Esse estado era ativado em condições relacionadas ao dano recebido e à disponibilidade de mana.
 
-Durante sua ativação, Lucy apresentava aumento de poder e redução dos tempos de recarga de habilidades.
+Durante sua ativação, Lucy apresentava aumento de poder e redução dos tempos de recarga de
+habilidades.
 
-Entretanto, esse estado consumia mana continuamente e poderia resultar em perda de consciência após determinado período.
+Entretanto, esse estado consumia mana continuamente e poderia resultar em perda de consciência após
+determinado período.
 
 #### Diferença em relação à magia convencional
 
-Na versão original, Lucy possuía um mecanismo que preservava uma quantidade mínima de mana durante a utilização normal de habilidades.
+Na versão original, Lucy possuía um mecanismo que preservava uma quantidade mínima de mana durante a
+utilização normal de habilidades.
 
 O Estado Berserker ignorava essa proteção.
 
@@ -1032,7 +1093,8 @@ Isso permite integrar o vínculo entre os personagens às mecânicas de stealth.
 
 Lucy e Nero possuem habilidades complementares.
 
-O gameplay pode explorar essa relação através de sistemas de cooperação entre a protagonista e seu companheiro.
+O gameplay pode explorar essa relação através de sistemas de cooperação entre a protagonista e seu
+companheiro.
 
 O sistema exato de comandos, autonomia e controle de Nero ainda precisa ser desenvolvido.
 
@@ -1094,7 +1156,7 @@ Nero representa uma criatura mágica das sombras.
 
 As seguintes características estão estabelecidas ou preservadas como parte da reconstrução atual:
 
-1. Lucy Morningstar é a protagonista.
+1. Lucy é a protagonista.
 2. Possui 16 anos.
 3. É filha de Matthew e Sarah.
 4. Sua origem está associada à intervenção de um espírito mágico.
@@ -1132,7 +1194,8 @@ As seguintes características estão estabelecidas ou preservadas como parte da 
 
 ## 24. ELEMENTOS HERDADOS QUE PRECISAM DE REVISÃO
 
-Os seguintes elementos pertencem à primeira versão da história, mas ainda não foram reconfirmados integralmente:
+Os seguintes elementos pertencem à primeira versão da história, mas ainda não foram reconfirmados
+integralmente:
 
 - A barreira mágica que protege o vilarejo.
 - O Estado Berserker.
@@ -1199,23 +1262,31 @@ Permanecem como material histórico para reconstrução e revisão.
 
 ## 26. SÍNTESE DA PERSONAGEM
 
-Lucy Morningstar é uma jovem guerreira e forjadora mágica cuja vida está associada à esperança de um novo amanhecer.
+Lucy é uma jovem guerreira e forjadora mágica cuja vida está associada à esperança de um novo
+amanhecer.
 
-Treinada desde a infância, desenvolveu habilidades extraordinárias em combate, magia elemental e criação de equipamentos encantados.
+Treinada desde a infância, desenvolveu habilidades extraordinárias em combate, magia elemental e
+criação de equipamentos encantados.
 
-Sua especialização como forjadora permite produzir armas capazes de conduzir seus poderes e artefatos personalizados para seu companheiro Nero.
+Sua especialização como forjadora permite produzir armas capazes de conduzir seus poderes e
+artefatos personalizados para seu companheiro Nero.
 
-Nero é uma criatura mágica única, naturalmente ligada às sombras, que acompanha Lucy desde a infância.
+Nero é uma criatura mágica única, naturalmente ligada às sombras, que acompanha Lucy desde a
+infância.
 
-A amizade entre os dois foi construída através de experiências compartilhadas e evoluiu para um vínculo espiritual profundo.
+A amizade entre os dois foi construída através de experiências compartilhadas e evoluiu para um
+vínculo espiritual profundo.
 
-Graças a essa conexão, Nero consegue encontrar abrigo na sombra de Lucy, regenerar-se e observar o ambiente sem ser percebido.
+Graças a essa conexão, Nero consegue encontrar abrigo na sombra de Lucy, regenerar-se e observar o
+ambiente sem ser percebido.
 
 Nero também ensinou Lucy a utilizar magia das sombras.
 
-Embora não possua as mesmas capacidades de seu companheiro, Lucy aprendeu a transformar sua própria sombra em um inventário mágico de capacidade infinita.
+Embora não possua as mesmas capacidades de seu companheiro, Lucy aprendeu a transformar sua própria
+sombra em um inventário mágico de capacidade infinita.
 
-Através da forja rúnica, Lucy retribui esse compartilhamento de conhecimentos criando artefatos que permitem a Nero canalizar seus poderes elementais.
+Através da forja rúnica, Lucy retribui esse compartilhamento de conhecimentos criando artefatos que
+permitem a Nero canalizar seus poderes elementais.
 
 Essa relação estabelece uma parceria em que os dois personagens se complementam.
 
@@ -1223,7 +1294,8 @@ Lucy oferece proteção, magia elemental e criação.
 
 Nero oferece proteção, magia sombria e percepção.
 
-A força de ambos não está apenas em suas capacidades individuais, mas na confiança que desenvolveram um pelo outro.
+A força de ambos não está apenas em suas capacidades individuais, mas na confiança que desenvolveram
+um pelo outro.
 
 Lucy é a guardiã de Nero.
 
@@ -1233,6 +1305,7 @@ E juntos representam a união entre luz e sombra.
 
 ---
 
-**Fim do Documento — Lucy Morningstar, A Portadora da Luz**
+**Fim do Documento — Lucy, A Portadora da Luz**
 
-**Status:** Documento consolidado com a primeira versão histórica e as novas definições de Nero e da Magia das Sombras.
+**Status:** Documento consolidado com a primeira versão histórica e as novas definições de Nero e da
+Magia das Sombras.

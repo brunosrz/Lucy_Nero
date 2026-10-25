@@ -27,7 +27,7 @@ Use os links abaixo para consultar os temas da documentação.
 2. [O Universo](#-2-o-universo)
 3. [Sistema de Magia](#-3-sistema-de-magia)
 4. [Neko Ryuu — Os Gatos Dragões](#-4-neko-ryuu--os-gatos-dragões)
-5. [Lucy Morningstar](#-5-lucy-morningstar)
+5. [Lucy](#-5-lucy)
 6. [Nero](#-6-nero)
 7. [O Vínculo entre Lucy e Nero](#️-7-o-vínculo-entre-lucy-e-nero)
 8. [Forja e Equipamentos](#-8-forja-e-equipamentos)
@@ -48,8 +48,8 @@ aventureiros e criaturas mitológicas fazem parte da existência do mundo desde 
 
 A franquia acompanha dois protagonistas:
 
-- **Lucy Morningstar**, uma jovem humana com uma quantidade extraordinária de mana, afinidade com
-  todos os elementos mágicos e uma habilidade inata conhecida como **Forjadora de Mundos**.
+- **Lucy**, uma jovem humana com uma quantidade extraordinária de mana, afinidade com todos os
+  elementos mágicos e uma habilidade inata conhecida como **Forjadora de Mundos**.
 - **Nero**, um gato preto capaz de manipular sombras e assumir diferentes formas animais, cuja
   verdadeira identidade é a de um **Neko Ryuu**, uma criatura mitológica que naturalmente se
   desenvolve até se tornar um dragão.
@@ -264,10 +264,10 @@ Elas são distintas das afinidades elementais.
 
 As habilidades inatas dos protagonistas são identificadas a seguir.
 
-| Personagem       | Habilidade inata        |
-| ---------------- | ----------------------- |
-| Lucy Morningstar | **Forjadora de Mundos** |
-| Nero             | **Dragão das Sombras**  |
+| Personagem | Habilidade inata        |
+| ---------- | ----------------------- |
+| Lucy       | **Forjadora de Mundos** |
+| Nero       | **Dragão das Sombras**  |
 
 As habilidades inatas não são identificadas pelos exames convencionais da guilda.
 
@@ -375,7 +375,7 @@ Essas obras são referências criativas, não partes do cânone de Lucy & Nero.
 
 ---
 
-## 👧 5. Lucy Morningstar
+## 👧 5. Lucy
 
 Esta seção reúne as características de Lucy, suas capacidades e os pontos ainda indefinidos de sua
 história.
@@ -386,7 +386,7 @@ A ficha abaixo resume as informações de referência de Lucy.
 
 | Característica          | Informação                                |
 | ----------------------- | ----------------------------------------- |
-| Nome                    | Lucy Morningstar                          |
+| Nome                    | Lucy                                      |
 | Idade no jogo principal | 16 anos                                   |
 | Raça                    | Humana                                    |
 | Altura de referência    | Aproximadamente 1,65 m                    |
@@ -533,12 +533,6 @@ Sarah é o nome da mãe de Lucy na documentação anterior.
 
 🟡 Sua história, profissão, personalidade e participação na nova narrativa precisam ser reescritas.
 
-#### O nome Morningstar
-
-A antiga versão associava o sobrenome Morningstar às últimas palavras de Matthew.
-
-Essa explicação não está confirmada para a nova continuidade.
-
 ---
 
 ## 🐈‍⬛ 6. Nero
@@ -559,7 +553,7 @@ A ficha abaixo resume as informações de referência de Nero.
 | Olhos                   | Verde-esmeralda         |
 | Formas alternativas     | Corvo e cavalo          |
 | Habilidade inata        | Dragão das Sombras      |
-| Companheira             | Lucy Morningstar        |
+| Companheira             | Lucy                    |
 
 ### 6.2. Aparência
 

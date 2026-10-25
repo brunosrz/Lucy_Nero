@@ -1,81 +1,77 @@
-# Como contribuir
+# Como contribuir com Lucy & Nero
 
-Contribuições devem ajudar alguém a compreender e reproduzir um conceito, incluindo seus limites.
-Documentação, correções e novos exercícios são bem-vindos.
+As contribuições devem desenvolver e manter a coerência da franquia **Lucy & Nero**. São bem-vindas
+melhorias de documentação, propostas narrativas, referências visuais e correções nas ferramentas.
+
+## Referências e continuidade
+
+Leia o [README](README.md) e as [diretrizes](AGENTS.md). As fichas [Lucy](lucy.md) e [Nero](nero.md)
+preservam material anterior e não devem reintroduzir automaticamente elementos descontinuados.
+Diferencie cânone, propostas, questões não definidas e conteúdo descontinuado.
 
 ## Fluxo de trabalho
 
-1. Abra uma issue para uma proposta ampla, descrevendo objetivo, restrições e critérios de
-   aceitação; correções pequenas podem ir direto a um PR.
-2. Sincronize `main` e crie uma branch curta: `feat/pub-sub`, `docs/cache` ou `fix/example-timeout`.
-3. Faça um estudo por PR, seguindo o [modelo](docs/example-template.md).
-4. Execute os checks e registre os comandos e resultados no PR.
-5. Resolva a revisão, confira o diff completo e execute validações manuais aplicáveis; o mantenedor
-   faz squash merge quando os checks passarem.
+Organize cada contribuição em torno de um objetivo verificável.
 
-Títulos de PR e commits seguem `tipo(escopo): descrição`. Exemplos:
-`feat(go): demonstrate bounded worker pool`, `docs(cache): explain invalidation trade-offs`. Tipos
-aceitos: feat, fix, docs, refactor, test, chore, ci, perf, build e revert. O escopo é opcional;
-títulos têm até 100 caracteres.
+1. Descreva o problema ou proposta e seus critérios de aceitação. Para mudanças amplas, apresente os
+   arquivos envolvidos e os impactos antes de editar.
+2. Inspecione o Git e preserve o trabalho existente. Agentes seguem as regras de branch do
+   AGENTS.md.
+3. Faça uma mudança coesa por PR e atualize as referências afetadas.
+4. Execute verificações aplicáveis, revise o diff e registre resultados e limitações reais.
+5. Resolva a revisão. Alterações de cânone e merges dependem da aprovação humana.
 
-## Organização dos estudos
+Títulos de PR e commits seguem Conventional Commits, com até 100 caracteres e escopo opcional.
+Exemplos: `docs(lore): esclarece a maturação dos Neko Ryuu` e
+`fix(tooling): corrige a validação de links locais`.
 
-Use nomes em kebab-case: `python/messaging/in-memory-pub-sub/`. Não crie uma dependência global
-entre todos os estudos. O índice temático deve apontar para cada implementação concluída.
+## Organização do conteúdo
 
-Cada estudo precisa de README, manifesto de dependências, testes automatizados e dados sintéticos.
-Serviços externos precisam de instruções de inicialização e limpeza; não exija credenciais reais nos
-testes padrão.
+O README concentra a continuidade atual e a visão dos jogos. As fichas mantêm material histórico, e
+public/ reúne referências visuais. Ao propor um documento novo, escolha um nome descritivo e
+adicione um link no documento que o contextualiza.
 
-Um manifesto marca um estudo como executável: `pyproject.toml`, `go.mod`, `Cargo.toml`,
-`package.json` ou `CMakeLists.txt`. O CI descobre a raiz do projeto e ignora manifestos internos de
-workspaces. Coloque a configuração de teste nesse projeto raiz.
+Escreva em português e inclua uma descrição após cada título. Identifique spoilers, limitações,
+dúvidas e decisões pendentes. Não apresente sistemas planejados como jogáveis.
 
-## Qualidade por linguagem
+## Revisão narrativa e visual
 
-- Python: uv.lock, Ruff, ty e pytest como dependências de desenvolvimento; tipos completos.
-- Go: gofmt, go vet e go test; execute testes com race detector quando suportado.
-- Rust: Cargo.lock, rustfmt, Clippy e cargo test; toolchain estável.
-- TypeScript: package-lock.json; scripts `lint`, `typecheck` e `test` sem watch; strict no tsconfig.
-- C++: CMake, compilação e CTest com testes registrados; clang-format para formatação. Configure
-  C++20 ou superior no projeto.
+Confira a proposta contra a continuidade atual antes de solicitar revisão.
 
-Novas linguagens exigem atualização do detector, runner, CI e labels. Registre versões nos
-manifestos e README. Para comparar implementações, use os mesmos dados e explicite diferenças de
-semântica.
+- Preserve idades, cronologia e a diferença de cinco anos entre Lucy e Nero.
+- Distinga afinidade elemental, reserva de mana, domínio mágico e habilidade inata.
+- Separe a maturação dos Neko Ryuu das transformações sombrias de Nero.
+- Não atribua novos poderes, limites ou explicações aos personagens sem aprovação.
+- Para arte, identifique personagem, forma, referência e estado de aprovação.
+- Explique quais documentos precisam mudar quando uma decisão de cânone for aprovada.
 
 ## Verificações locais
 
-Instale as ferramentas com `uv sync --locked` e os hooks com `uv run pre-commit install`. Em
-seguida:
+O [guia das ferramentas](utils/README.md) descreve interfaces existentes e limitações. Confira a
+formatação com a versão usada pelo hook:
 
 ```sh
-uv run pre-commit run --all-files
-uv run ruff check utils tests
-uv run ty check utils tests
-uv run pytest
-uv run python -m utils.projects check
+npx --yes --package prettier@3.9.5 prettier --check README.md
 ```
 
-Os hooks podem corrigir formatação: revise e adicione os arquivos novamente. Não use `--no-verify`.
-Pastas sem estudos são ignoradas, mas um projeto existente com ferramenta ausente falha
-explicitamente.
+Substitua o caminho pelos arquivos alterados. Para aplicar a formatação, use --write e revise o
+resultado. Confira também links locais, âncoras do índice e descrições após os títulos.
 
-## Revisão e comportamento
+A base usa Python 3.14+ e uv. O preparo previsto é `uv sync --locked`, seguido de
+`uv run pre-commit install`. Nesta revisão, o ambiente tem uv.lock, mas ainda falta tests/; a
+sequência de checks herdada ainda exige adaptação. Não altere a infraestrutura implicitamente em uma
+contribuição editorial.
 
-Explique o motivo de uma sugestão e trate dúvidas com respeito. Revisões automatizadas são apoio: o
-autor continua responsável por entender o código. Não inclua segredos, dados pessoais ou material de
-terceiros sem permissão.
+Antes de commitar, siga os comandos do AGENTS.md e relate falhas ou pré-requisitos ausentes. Nunca
+use --no-verify nem apresente verificações não executadas como aprovadas.
 
-Reporte problemas com reprodução mínima. Para vulnerabilidades que exponham credenciais ou dados,
-use o canal privado disponível no GitHub; não publique o segredo na issue.
+## Segurança e evidências
 
-## Evidências e decisões
+Mudanças em validadores exigem casos aceitos, rejeitados e regressões relevantes. Use o ambiente uv
+do projeto para dependências. Não inclua segredos ou dados pessoais e respeite autoria e licenças.
 
-O PR deve permitir que outra pessoa confirme a conclusão sem confiar em uma afirmação. Registre os
-critérios atendidos, comandos executados e resultados reais, além de riscos ou pendências. Se algo
-não pôde ser executado, explique o motivo.
+O sincronizador de labels ainda aponta para o repositório de origem; não o execute para administrar
+Lucy & Nero antes de adaptar e revisar seu destino.
 
-Use [ADRs](docs/adr/README.md) para decisões que mudem arquitetura, contratos, persistência,
-concorrência ou operação. Uma revisão automatizada pode encontrar problemas, mas a aprovação deve
-considerar o diff, os critérios de aceitação e o comportamento observado.
+Registre no PR objetivo, arquivos, decisões, comandos executados e limitações. A revisão automática
+não confirma coerência narrativa nem substitui a avaliação visual e humana.

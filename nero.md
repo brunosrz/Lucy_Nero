@@ -1,5 +1,12 @@
 # NERO — O GUARDIÃO DAS SOMBRAS
 
+> **Material histórico — continuidade anterior de Lucy & Nero.**
+>
+> Esta ficha é preservada como referência de desenvolvimento e não define o cânone atual. O nome
+> anterior do universo, as origens, os poderes e as mecânicas descritos abaixo podem divergir da
+> nova continuidade. Consulte o [README](README.md) para as informações atuais. Elementos
+> descontinuados ou não confirmados exigem revisão e aprovação antes de serem reutilizados.
+
 > Documento de Design de Personagem
 >
 > Universo: Lucy — Uma Aventura Sangrenta
@@ -16,25 +23,34 @@
 
 ## 1. VISÃO GERAL
 
-Nero é uma criatura mágica única, cuja aparência natural é a de um gato da raça Bengal, de pelagem preta melanística e olhos verde-esmeralda.
+Nero é uma criatura mágica única, cuja aparência natural é a de um gato da raça Bengal, de pelagem
+preta melanística e olhos verde-esmeralda.
 
-Apesar de sua aparência felina, Nero possui capacidades extraordinárias. É um transmorfo capaz de assumir voluntariamente as formas de corvo e cavalo, preservando suas características visuais em todas elas.
+Apesar de sua aparência felina, Nero possui capacidades extraordinárias. É um transmorfo capaz de
+assumir voluntariamente as formas de corvo e cavalo, preservando suas características visuais em
+todas elas.
 
 Entretanto, sua verdadeira natureza vai muito além da metamorfose.
 
-Nero é uma criatura das sombras, capaz de interagir com uma dimensão espiritual associada à contraparte da alma dos seres vivos.
+Nero é uma criatura das sombras, capaz de interagir com uma dimensão espiritual associada à
+contraparte da alma dos seres vivos.
 
-Seu vínculo mais profundo é com Lucy Morningstar, uma jovem guerreira e forjadora mágica com quem cresceu desde a infância.
+Seu vínculo mais profundo é com Lucy, uma jovem guerreira e forjadora mágica com quem cresceu desde
+a infância.
 
 Nero é o guardião de Lucy, assim como Lucy é sua guardiã.
 
-Essa relação permite que ele encontre abrigo na própria sombra dela, onde pode descansar, regenerar-se, acompanhar suas viagens e observar o ambiente sem ser percebido.
+Essa relação permite que ele encontre abrigo na própria sombra dela, onde pode descansar,
+regenerar-se, acompanhar suas viagens e observar o ambiente sem ser percebido.
 
-Embora possua inteligência animal excepcional, Nero não fala nem se comunica telepaticamente. Suas interações acontecem através de vocalizações, expressões e linguagem corporal.
+Embora possua inteligência animal excepcional, Nero não fala nem se comunica telepaticamente. Suas
+interações acontecem através de vocalizações, expressões e linguagem corporal.
 
 Sua personalidade combina curiosidade, coragem e seletividade social.
 
-Nero não é simplesmente um animal de estimação, uma montaria ou um familiar mágico subordinado. É um companheiro independente, cuja relação com Lucy é construída sobre confiança, afeto e experiências compartilhadas.
+Nero não é simplesmente um animal de estimação, uma montaria ou um familiar mágico subordinado. É um
+companheiro independente, cuja relação com Lucy é construída sobre confiança, afeto e experiências
+compartilhadas.
 
 ---
 
@@ -55,20 +71,23 @@ Nero não é simplesmente um animal de estimação, uma montaria ou um familiar 
 | Temperamento          | Seletivo, curioso e corajoso |
 | Habilidade principal  | Manipulação das sombras      |
 | Habilidade secundária | Metamorfose                  |
-| Companheira           | Lucy Morningstar             |
+| Companheira           | Lucy                         |
 | Relação               | Guardiões um do outro        |
 
 ### 2.1. Natureza única
 
 Nero não pertence a uma espécie conhecida de gatos transmorfos.
 
-Sua existência é excepcional, e suas capacidades não representam habilidades comuns aos animais de seu mundo.
+Sua existência é excepcional, e suas capacidades não representam habilidades comuns aos animais de
+seu mundo.
 
-Embora tenha nascido com a capacidade de se transformar, sua origem específica permanece desconhecida.
+Embora tenha nascido com a capacidade de se transformar, sua origem específica permanece
+desconhecida.
 
 Não está estabelecido se existem outras criaturas das sombras com habilidades semelhantes.
 
-A singularidade de Nero não significa necessariamente que ele seja imortal, divino ou o último representante de uma espécie.
+A singularidade de Nero não significa necessariamente que ele seja imortal, divino ou o último
+representante de uma espécie.
 
 ---
 
@@ -78,7 +97,8 @@ A singularidade de Nero não significa necessariamente que ele seja imortal, div
 
 A aparência de Nero é inspirada na raça Bengal, especialmente na variedade melanística.
 
-Sua pelagem apresenta um preto profundo, com rosetas de tonalidade ligeiramente diferente, criando padrões que podem ser percebidos conforme a iluminação.
+Sua pelagem apresenta um preto profundo, com rosetas de tonalidade ligeiramente diferente, criando
+padrões que podem ser percebidos conforme a iluminação.
 
 Seus olhos verde-esmeralda são uma característica permanente, independentemente da transformação.
 
@@ -95,9 +115,11 @@ Seus olhos verde-esmeralda são uma característica permanente, independentement
 
 A forma original de Nero é a de um gato Bengal.
 
-Possui pelagem curta, corpo ágil e musculatura apropriada para movimentos rápidos, saltos e escaladas.
+Possui pelagem curta, corpo ágil e musculatura apropriada para movimentos rápidos, saltos e
+escaladas.
 
-Seu comportamento mantém características felinas, especialmente curiosidade, independência e interesse por explorar o ambiente.
+Seu comportamento mantém características felinas, especialmente curiosidade, independência e
+interesse por explorar o ambiente.
 
 Essa é sua forma natural e uma das principais maneiras pelas quais demonstra afeto por Lucy.
 
@@ -131,7 +153,8 @@ Os olhos continuam verde-esmeralda.
 
 Nero também consegue assumir a anatomia completa de um cavalo.
 
-Sua pelagem mantém o preto melanístico e as rosetas características, distribuídas pelo pescoço, tronco e membros.
+Sua pelagem mantém o preto melanístico e as rosetas características, distribuídas pelo pescoço,
+tronco e membros.
 
 A crina e a cauda possuem coloração negra.
 
@@ -168,7 +191,8 @@ A transformação altera completamente o corpo, mas preserva a identidade e a co
 
 Nero possui inteligência muito superior à de um animal comum.
 
-É capaz de compreender situações complexas, reconhecer padrões, memorizar caminhos e aprender através de experiências.
+É capaz de compreender situações complexas, reconhecer padrões, memorizar caminhos e aprender
+através de experiências.
 
 Entretanto, sua inteligência não funciona necessariamente como a de um humano.
 
@@ -192,7 +216,8 @@ A curiosidade é seu instinto dominante.
 
 Nero sente necessidade de investigar objetos, criaturas, ambientes e fenômenos desconhecidos.
 
-Essa característica pode levá-lo a descobrir caminhos e oportunidades que passariam despercebidos por outros personagens.
+Essa característica pode levá-lo a descobrir caminhos e oportunidades que passariam despercebidos
+por outros personagens.
 
 Entretanto, sua curiosidade também pode colocá-lo em situações inesperadas.
 
@@ -200,9 +225,11 @@ Entretanto, sua curiosidade também pode colocá-lo em situações inesperadas.
 
 Diante de ameaças, Nero demonstra coragem.
 
-Não hesita necessariamente em enfrentar adversários maiores ou situações perigosas, especialmente quando alguém importante para ele está ameaçado.
+Não hesita necessariamente em enfrentar adversários maiores ou situações perigosas, especialmente
+quando alguém importante para ele está ameaçado.
 
-Sua coragem não elimina sua capacidade de reconhecer perigos ou utilizar estratégias de sobrevivência.
+Sua coragem não elimina sua capacidade de reconhecer perigos ou utilizar estratégias de
+sobrevivência.
 
 ### 4.5. Comunicação
 
@@ -230,9 +257,11 @@ Lucy consegue interpretar muitos de seus comportamentos devido aos anos de convi
 
 A origem de Nero permanece um mistério.
 
-Sabe-se que ele nasceu com suas capacidades metamórficas e possui uma ligação natural com a magia das sombras.
+Sabe-se que ele nasceu com suas capacidades metamórficas e possui uma ligação natural com a magia
+das sombras.
 
-Entretanto, ainda não foi estabelecido de onde veio, quem eram seus possíveis progenitores ou por que possui habilidades tão extraordinárias.
+Entretanto, ainda não foi estabelecido de onde veio, quem eram seus possíveis progenitores ou por
+que possui habilidades tão extraordinárias.
 
 Sua existência como criatura única é um dos mistérios do universo.
 
@@ -240,7 +269,8 @@ Sua existência como criatura única é um dos mistérios do universo.
 
 Durante a infância de Lucy, Nero apareceu espontaneamente em sua vida.
 
-Ele não foi entregue como presente, invocado através de magia ou designado oficialmente como guardião.
+Ele não foi entregue como presente, invocado através de magia ou designado oficialmente como
+guardião.
 
 Simplesmente apareceu.
 
@@ -254,7 +284,8 @@ A convivência entre os dois começou a construir uma relação de confiança.
 
 ### 5.3. A descoberta das transformações
 
-Algum tempo depois do primeiro encontro, ainda durante a infância, Lucy descobriu que Nero conseguia assumir outras formas animais.
+Algum tempo depois do primeiro encontro, ainda durante a infância, Lucy descobriu que Nero conseguia
+assumir outras formas animais.
 
 O acontecimento exato que revelou essa capacidade ainda será desenvolvido.
 
@@ -262,13 +293,15 @@ Essa descoberta ampliou a compreensão de Lucy sobre a natureza extraordinária 
 
 ### 5.4. Uma amizade construída
 
-Ao longo dos anos, Lucy e Nero compartilharam experiências que fortaleceram profundamente seu vínculo.
+Ao longo dos anos, Lucy e Nero compartilharam experiências que fortaleceram profundamente seu
+vínculo.
 
 A confiança entre eles não surgiu de um contrato mágico ou de uma obrigação sobrenatural.
 
 Foi construída através da convivência, do companheirismo e da proteção mútua.
 
-Esse vínculo eventualmente permitiu que Nero utilizasse uma de suas capacidades mais especiais: entrar na sombra de Lucy.
+Esse vínculo eventualmente permitiu que Nero utilizasse uma de suas capacidades mais especiais:
+entrar na sombra de Lucy.
 
 ### 5.5. Guardiões um do outro
 
@@ -278,7 +311,8 @@ Lucy também protege Nero.
 
 A relação entre ambos representa confiança e responsabilidade compartilhadas.
 
-Nero pode encontrar refúgio na sombra de Lucy, enquanto ela pode contar com suas capacidades para exploração, proteção e combate.
+Nero pode encontrar refúgio na sombra de Lucy, enquanto ela pode contar com suas capacidades para
+exploração, proteção e combate.
 
 Durante suas jornadas, os dois atuam como companheiros inseparáveis.
 
@@ -292,7 +326,8 @@ No universo de Lucy, a sombra é compreendida como a contraparte da alma.
 
 Isso significa que a sombra não é apenas a ausência de luz.
 
-Ela também possui significado espiritual e pode estabelecer relações profundas com a identidade de um indivíduo.
+Ela também possui significado espiritual e pode estabelecer relações profundas com a identidade de
+um indivíduo.
 
 A magia das sombras permite interagir com propriedades especiais dessa contraparte.
 
@@ -384,13 +419,16 @@ Isso permite que continue acompanhando os acontecimentos e identificando possív
 
 Durante situações de furtividade, Nero atua como um sexto sentido para Lucy.
 
-Enquanto permanece oculto na sombra, consegue observar o ambiente e contribuir para a percepção de ameaças.
+Enquanto permanece oculto na sombra, consegue observar o ambiente e contribuir para a percepção de
+ameaças.
 
-Essa habilidade transforma Nero em um companheiro especialmente valioso durante exploração e stealth.
+Essa habilidade transforma Nero em um companheiro especialmente valioso durante exploração e
+stealth.
 
 O mecanismo exato pelo qual Lucy recebe essas informações ainda precisa ser estabelecido.
 
-Não está definido se ela percebe os alertas através de intuição, sensações espirituais ou outra manifestação da conexão entre ambos.
+Não está definido se ela percebe os alertas através de intuição, sensações espirituais ou outra
+manifestação da conexão entre ambos.
 
 ### 7.6. Acesso ao Inventário Sombrio
 
@@ -412,7 +450,8 @@ Nero foi responsável por ensinar magia das sombras a Lucy.
 
 Entretanto, as capacidades de Lucy são diferentes das de Nero.
 
-Enquanto Nero possui uma ligação natural e profunda com as sombras, Lucy consegue utilizar uma aplicação específica dessa magia.
+Enquanto Nero possui uma ligação natural e profunda com as sombras, Lucy consegue utilizar uma
+aplicação específica dessa magia.
 
 ### 8.2. Inventário Sombrio
 
@@ -440,7 +479,8 @@ Essa capacidade funciona como um inventário mágico de capacidade infinita.
 - Integração com as atividades de forja.
 - Possibilidade de acesso por Nero.
 
-Lucy não possui, até o momento, a capacidade estabelecida de entrar fisicamente nas sombras como Nero.
+Lucy não possui, até o momento, a capacidade estabelecida de entrar fisicamente nas sombras como
+Nero.
 
 Sua especialização está relacionada ao armazenamento e à manipulação de objetos materiais.
 
@@ -454,7 +494,8 @@ Lucy é uma guerreira e forjadora mágica.
 
 Ela consegue fabricar armas, ferramentas e artefatos encantados através de sua magia.
 
-Além de produzir equipamentos para si mesma, também desenvolve artefatos especialmente adaptados às características de Nero.
+Além de produzir equipamentos para si mesma, também desenvolve artefatos especialmente adaptados às
+características de Nero.
 
 Esses equipamentos permitem que Nero utilize parte do poder mágico elemental de Lucy.
 
@@ -556,7 +597,8 @@ Permitem ataques aéreos com efeitos mágicos.
 
 Encantamentos associados às penas das asas.
 
-Poderiam permitir ataques mágicos através do movimento das asas, especialmente utilizando o elemento vento.
+Poderiam permitir ataques mágicos através do movimento das asas, especialmente utilizando o elemento
+vento.
 
 O funcionamento específico ainda precisa ser definido.
 
@@ -607,7 +649,8 @@ Destinada à proteção e aos movimentos de impacto.
 
 **Status: Proposta em avaliação**
 
-Uma possibilidade para o sistema de equipamentos é permitir que os artefatos de Nero se adaptem automaticamente às suas transformações.
+Uma possibilidade para o sistema de equipamentos é permitir que os artefatos de Nero se adaptem
+automaticamente às suas transformações.
 
 Nesse modelo, um mesmo artefato assume diferentes configurações conforme a anatomia atual.
 
@@ -779,7 +822,8 @@ Nero pode oferecer suporte através de:
 
 Quando precisa descansar ou se recuperar, Nero pode retornar à sombra de Lucy.
 
-Sua regeneração permite que o refúgio sombrio tenha uma função importante na sobrevivência do personagem.
+Sua regeneração permite que o refúgio sombrio tenha uma função importante na sobrevivência do
+personagem.
 
 ---
 
@@ -791,7 +835,8 @@ Eles cresceram juntos e construíram um vínculo profundo através de experiênc
 
 Não existe uma relação de propriedade ou subordinação.
 
-Lucy não considera Nero apenas uma ferramenta de combate, assim como Nero não permanece ao lado dela por obrigação.
+Lucy não considera Nero apenas uma ferramenta de combate, assim como Nero não permanece ao lado dela
+por obrigação.
 
 Ambos se protegem.
 
@@ -820,7 +865,8 @@ Ambos se protegem.
 
 A sombra é a contraparte da alma.
 
-Ao permitir que Nero encontre abrigo em sua sombra, Lucy compartilha com ele algo espiritualmente profundo.
+Ao permitir que Nero encontre abrigo em sua sombra, Lucy compartilha com ele algo espiritualmente
+profundo.
 
 Nero, por sua vez, confia nela a ponto de utilizar esse espaço como refúgio.
 
@@ -978,17 +1024,23 @@ Os seguintes aspectos ainda precisam ser desenvolvidos.
 
 ## 18. SÍNTESE DO PERSONAGEM
 
-Nero é uma criatura mágica única, de aparência felina, cuja verdadeira natureza está profundamente ligada às sombras.
+Nero é uma criatura mágica única, de aparência felina, cuja verdadeira natureza está profundamente
+ligada às sombras.
 
-Sua capacidade de assumir as formas de gato, corvo e cavalo oferece versatilidade, enquanto sua magia sombria permite que ele encontre refúgio na sombra de Lucy, recupere-se e acompanhe sua companheira sem ser percebido.
+Sua capacidade de assumir as formas de gato, corvo e cavalo oferece versatilidade, enquanto sua
+magia sombria permite que ele encontre refúgio na sombra de Lucy, recupere-se e acompanhe sua
+companheira sem ser percebido.
 
-Apesar de suas capacidades extraordinárias, Nero preserva uma personalidade genuinamente animal: curioso, corajoso, independente e seletivo.
+Apesar de suas capacidades extraordinárias, Nero preserva uma personalidade genuinamente animal:
+curioso, corajoso, independente e seletivo.
 
 Sua relação com Lucy é construída sobre experiências compartilhadas desde a infância.
 
-Nero ensinou Lucy a utilizar magia das sombras, enquanto ela utiliza sua habilidade como forjadora para criar artefatos rúnicos capazes de compartilhar seus poderes elementais com ele.
+Nero ensinou Lucy a utilizar magia das sombras, enquanto ela utiliza sua habilidade como forjadora
+para criar artefatos rúnicos capazes de compartilhar seus poderes elementais com ele.
 
-A força dessa parceria não está apenas nas habilidades individuais, mas na maneira como ambos complementam um ao outro.
+A força dessa parceria não está apenas nas habilidades individuais, mas na maneira como ambos
+complementam um ao outro.
 
 Nero protege Lucy.
 
